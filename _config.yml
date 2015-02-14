@@ -1,0 +1,12 @@
+# Site settings
+title: VAlencia BAyesian Research group
+email: facundo.munoz@orleans.inra.fr
+description: > # this means to ignore newlines until "baseurl:"
+  This is the webpage of the VAlencia BAyesian Research group (VABAR)
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://vabar.github.io" # the base hostname & protocol for your site
+twitter_username: vabar
+github_username:  vabar
+
+# Build settings
+markdown: kramdown
