@@ -1,20 +1,16 @@
-<!DOCTYPE html>
-<html>
+---
+layout: compress
+---
+{% include head.html %}
+<body id="top-of-page" class="{{ page.format }}">
+	{% include navigation.html %}
 
-  {% include head.html %}
+	{% include masthead.html %}
 
-  <body>
+	{{ content }}
 
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
-
-    {% include footer.html %}
-
-  </body>
-
+	{% include footer.html %}
+	
+	{% include footer_scripts.html %}
+</body>
 </html>
