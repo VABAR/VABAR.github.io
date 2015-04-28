@@ -10,13 +10,6 @@
 # Title of your website
 title: VABAR
 
-email: facundo.munoz@orleans.inra.fr
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://vabar.github.io" # the base hostname & protocol for your site
-twitter_username: vabar
-github_username:  vabar
-
-
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: "VAlencia BAyesian Research group"
 
