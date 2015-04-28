@@ -8,25 +8,32 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "Feeling Responsive"
+title: VABAR
+
+email: facundo.munoz@orleans.inra.fr
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://vabar.github.io" # the base hostname & protocol for your site
+twitter_username: vabar
+github_username:  vabar
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "A Flexible Theme for Jekyll"
+slogan: "VAlencia BAyesian Research group"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette."
+description: > # this means to ignore newlines until "baseurl:"
+  This is the webpage of the VAlencia BAyesian Research group (VABAR). Based at the University of Valencia and heir of prominent Bayesians like Susie Bayarri and Juan Ferrándiz.
 
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://phlow.github.io/feeling-responsive"
-baseurl: ""
+baseurl: ""                   # the subpath of your site, e.g. /blog/
+url: "http://vabar.github.io" # the base hostname & protocol for your site
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: https://github.com/VABAR/VABAR.github.io
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash.
@@ -34,7 +41,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://phlow.github.io/feeling-responsive/images/"
+urlimg: "/images/"
 
 
 # Logo size is 600x80 pixels
@@ -87,7 +94,7 @@ defaults:
       show_meta: true 	# Show metadata beneath all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: "your_author_name"
+      author: "VABAR"
   -
     scope:
       path: ""        
@@ -96,7 +103,7 @@ defaults:
       show_meta: true   # Show metadata beneath all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: "your_author_name"
+      author: "VABAR"
 
 
 
@@ -118,9 +125,9 @@ defaults:
 #   ___/ / /___/ /_/ / 
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_author:             "https://plus.google.com/u/0/118311555303973066167"
-google_site_verification:  "Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ"
-bing_webmastertools_id:    "0FB4C028ABCF07C908C54386ABD2D97F"
+# google_author:             "https://plus.google.com/u/0/118311555303973066167"
+# google_site_verification:  "Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ"
+# bing_webmastertools_id:    "0FB4C028ABCF07C908C54386ABD2D97F"
 # alexa_verify_id:         ""
 
 
@@ -152,13 +159,13 @@ msapplication_tilecolor:                "#fabb00"
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<   
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image:                           "http://images.phlow.de/phlow/phlow_de-logo-512x.png"
-og_locale:                          "en_EN"
-og_type:                            "website"
-og_title:                           "Feeling Responsive – A Responsive Theme for Jekyll"
-og_description:                     "Feeling Responsive is built on the fabulous Foundation Framework and comes with lots of features to show your content right."
-# og_url:                           ""
-# og_site_name:                     ""
+# og_image:                           "http://images.phlow.de/phlow/phlow_de-logo-512x.png"
+# og_locale:                          "en_EN"
+# og_type:                            "website"
+# og_title:                           "Feeling Responsive – A Responsive Theme for Jekyll"
+# og_description:                     "Feeling Responsive is built on the fabulous Foundation Framework and comes with lots of features to show your content right."
+# # og_url:                           ""
+# # og_site_name:                     ""
 
 
 #      _____            _       __   __  ___         ___      
@@ -204,5 +211,5 @@ sass:
 #
 # used in _includes/footer_scripts.html
 
-google_analytics_tracking_id: UA-60112281-1
+# google_analytics_tracking_id: UA-60112281-1
 

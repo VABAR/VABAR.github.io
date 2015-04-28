@@ -5,9 +5,9 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
+title: "VABAR – VAlencia BAyesian Research group"
 header:
-   image_fullwidth: "header_unsplash_12.jpg"
+   image_fullwidth: "header_valencia.jpg"
 widget-1:
     title: "Blog & Portfolio"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -32,3 +32,4 @@ widget-3:
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
+
