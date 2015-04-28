@@ -6,9 +6,9 @@
   url: "/research/"
   side: left
 
-- title: Courses and Seminars
-  url: "/courses/"
-  side: left
+# - title: Courses and Seminars
+#  url: "/courses/"
+#  side: left
 
 - title: Members
   url: "/members/"
