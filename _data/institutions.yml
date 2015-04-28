@@ -1,0 +1,60 @@
+# Institution details
+# 
+    
+
+- name: uveg
+  title: Universitat de València
+  url: http://ww.uv.es
+  city: Valencia
+  country: Spain
+  logo: uveg.jpg
+
+- name: umh
+  title: Universidad Miguel Hernández
+  url: http://www.umh.es/
+  city: Elche
+  country: Spain
+  logo: umh.jpg
+
+- name: uclm
+  title: Universidad Castilla La Mancha
+  url: http://www.uclm.es/
+  city: Albacete
+  country: Spain
+  logo: uclm.gif
+
+- name: urjc
+  title: Universidad Rey Juan Carlos
+  url: http://www.urjc.es/
+  city: Madrid
+  country: Spain
+  logo: urjc.jpg
+
+- name: uc3m
+  title: Universidad Carlos III
+  url: http://www.uc3m.es/
+  city: Madrid
+  country: Spain
+  logo: uc3m.jpg
+
+- name: fisabio
+  title: Fundación para el Fomento de la Investigación Sanitaria y Biomédica
+  url: http://fisabio.san.gva.es/
+  city: Valencia
+  country: Spain
+  logo: fisabio.png
+  
+- name: ivia
+  title: Instituto Valenciano de Investigaciones Agrarias
+  url: http://www.ivia.gva.es/
+  city: Valencia
+  country: Spain
+  logo: ivia.png
+
+- name: inra
+  title: Institut Nacional de la Recherche Agronomique
+  url: http://www.inra.fr
+  city: Orléans
+  country: France
+  logo: inra.png
+

@@ -1,0 +1,108 @@
+# Member details
+# 
+    
+## UVEG
+
+- name: Anabel Forte
+  affiliation: uveg
+  position: Professor
+  url: http://www.uv.es
+
+- name: David Conesa
+  affiliation: uveg
+  position: Professor
+  url: http://www.uv.es
+
+- name: Antonio López
+  affiliation: uveg
+  position: Professor
+  url: http://www.uv.es
+
+- name: Francisco Santonja
+  affiliation: uveg
+  position: Professor
+  url: http://www.uv.es
+
+- name: Hèctor Perpiñán
+  affiliation: uveg
+  position: Graduate student
+  url: http://www.uv.es
+
+- name: Blanca Sarz
+  affiliation: uveg
+  position: Graduate student
+  url: http://www.uv.es
+
+- name: Elena Lázaro
+  affiliation: uveg
+  position: Graduate student
+  url: http://www.uv.es
+
+- name: Danilo Alvares
+  affiliation: uveg
+  position: Graduate student
+  url: http://www.uv.es
+
+- name: Carmen Armero
+  affiliation: uveg
+  position: Professor
+  url: http://www.uv.es
+
+## UMH
+
+- name: Xavi Barber
+  affiliation: umh
+  position: Professor
+  url: http://www.umh.es/
+
+## UCLM
+
+- name: Gonzalo García-Donato
+  affiliation: uclm
+  position: Professor
+  url: http://www.uclm.es/profesorado/garcia-donato/
+
+- name: Virgilio Gómez-Rubio
+  affiliation: uclm
+  position: Professor
+  url: http://www.uclm.es/
+
+## URJC
+
+- name: María-Eugenia Castellano
+  affiliation: urjc
+  position: Professor
+  url: http://www.urjc.es/
+
+## UC3M
+
+- name: Stefano Cabra
+  affiliation: uc3m
+  position: Professor
+  url: http://www.uc3m.es/
+
+## FISABIO
+- name: Jordi Pérez
+  affiliation: fisabio
+  position: Biostatistician
+  url: http://fisabio.san.gva.es/
+  
+- name: Rubén Amorós
+  affiliation: fisabio
+  position: Biostatistician
+  url: http://fisabio.san.gva.es/
+  
+## IVIA
+- name: Joaquín Minay
+  affiliation: ivia
+  position: Biostatistician
+  url: http://www.ivia.gva.es/
+
+## INRA
+
+- name: Facundo Muñoz
+  affiliation: inra
+  position: Postdoctoral Fellow
+  url: http://www.uv.es/famarmu
+  img: facu.jpg
+
