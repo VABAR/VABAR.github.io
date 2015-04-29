@@ -8,14 +8,19 @@ permalink: "/jointcv/"
 ---
 
 1. [Publications](#publications)
+  - [2015](#pub2015)
+  - [2014](#pub2014)
+  - [2013](#pub2013)
+  - [2012](#pub2012)
+  - [2011](#pub2011)
 2. [Projects](#projects)
 3. [Contracts](#contracts)
 
 ## <a name="publications"></a>Publications
 
-- 2015
+- <a name="pub2015"></a>2015
 
-- 2014
+- <a name="pub2014"></a>2014
 
   - D. Conesa, M.A. Martínez-Beneito, R. Amorós, A. López-Quílez. Bayesian Hierarchical Poisson Models with a hidden Markov structure for the detection of influenza epidemic outbreaks. *Statistical Methods in Medical Research*. In press.
 
@@ -59,7 +64,7 @@ permalink: "/jointcv/"
 
   - Martin-Sanchez, A.M., Cherif, S., Ben-Abda, J, Barber, X., Pérez-Alvarez, J.A., Sayas- Barberá, M.E. Phytochemicals in date co-products and their antioxidant activity. *Food Chemistry*, 58: 513-520.
 
-- 2013
+- <a name="pub2013"></a>2013
 
   - M. G. Pennino, F. Muñoz, D. Conesa, A. López-Quílez, J. M. Bellido. Modelling sensitive elasmobranch habitats. *Journal of Sea Research*, 83: 209–218.
 
@@ -111,7 +116,7 @@ permalink: "/jointcv/"
 
   - Tamayo-Fonseca N, Quesada JA, Nolasco A, Melchor I, Moncho J, Pereyra-Zamora P, López R, Calabuig J, Barber, X. Self-rated health and mortality: a follow-up study of a Spanish population. *Public Health*, 127(12), 1097-1104.
 
-- 2012
+- <a name="pub2012"></a>2012
 
   - E. Tortosa, C. Armero, D. Conesa and E. Grifell. Bootstrapping profit change: An application to Spanish banks. *Computers and Operations Research*, 39(8): 1857–1871.
 
@@ -136,7 +141,7 @@ permalink: "/jointcv/"
 
   - C. Iñiguez; F. Ballester; M. Estarlich; A. Esplugues; M. Murcia; S. Llop; A. Plana; R. Amorós; M. Rebagliato. Prenatal exposure to traffic related air pollution and fetal growth in a cohort of pregnant women. *Occupational and Environmental Medicine*, 69 736-744.
 
-- 2011
+- <a name="pub2011"></a>2011
 
   - M. G. Pennino, J. M. Bellido, D. Conesa and A. López-Quílez. Trophic indicators to measure the impact of fishing on an exploited ecosystem. *Animal Biodiversity and Conservation*, 34: 123-131.
 
