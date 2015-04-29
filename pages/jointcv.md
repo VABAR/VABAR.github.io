@@ -7,7 +7,7 @@ teaser: ""
 permalink: "/jointcv/"
 ---
 
-# Publications
+## Publications
 
 - 2015
 
@@ -162,7 +162,7 @@ permalink: "/jointcv/"
 
   - Cabras, S. Castellanos, M. E., Casula, L., Persico, I., Bertolino, F., Sassu, A., Biino, G., del Giaco, S., Pirastu, M., and Pirastu, N. A strategy analysis for genetic association studies with known inbreeding. *BMC Genetics*, 12 (63).
 
-# Projects
+## Projects
 
 - Plan Nacional de Investigación Científica, Desarrollo e Innovación Tecnológica 2007-2010. Validación e implementación de modelos bayesianos en aplicaciones de vanguardia (VALIMBA). Enero 2011 - Diciembre 2013. IP: Maria Jesús Bayarri García. Ministerio de Educación y Ciencia. MTM2010-19528.
 
@@ -202,7 +202,7 @@ permalink: "/jointcv/"
 
 - Prospectiva en la Comunidad Valenciana en tres sectores socioeconómicos relevantes: sanidad, educación y turismo. Universidad Miguel Hernandez de Elche. 2012. IP: Morales Socuellamos, Javier.
 
-# Contracts
+## Contracts
 
 - Servicio de asesoría en tareas del proyecto BADMINTON. Instituto Español de Oceanografía Desde. Diciembre 2012 - Diciembre 2013. IP: David Conesa.
 
