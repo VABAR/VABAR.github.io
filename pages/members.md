@@ -1,21 +1,33 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Members"
 subheadline: "The people behind the group"
 show_meta: false
 permalink: "/members/"
 ---
 
+{% for inst in site.data.institutions %}
+  {% capture ninstitutions %}{{ forloop.length }}{% endcapture %}
+{% endfor %}
+
+{% for inst in site.data.members %}
+  {% capture nmembers %}{{ forloop.length }}{% endcapture %}
+{% endfor %}
+
+Counting {{ nmembers }} individuals from {{ ninstitutions }} institutions in 3 different countries
+
 <div class="row">
   {% for institution in site.data.institutions %}
-    <div class="medium-6 columns">
+    <div class="medium-6 large-4 columns">
       <a href="{{ institution.url }}">
         <img class="t30" src="{{ site.url }}/images/institutions/{{ institution.logo }}">
       </a>
-      <p>
-        <a href="{{ institution.url }}">{{ institution.title }}</a>
-      </p>
-      
+      {% if institution.logo_has_title != true %}
+        <p>
+          <a href="{{ institution.url }}">{{ institution.title }}</a>
+        </p>
+      {% endif %}
+
       <ul>
       {% for member in site.data.members %}
         {% if member.affiliation == institution.name %}
