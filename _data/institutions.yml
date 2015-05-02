@@ -9,6 +9,13 @@
   country: Spain
   logo: uveg.jpg
 
+- name: duke
+  title: Duke University
+  url: http://www.duke.edu/
+  city: Durham
+  country: USA
+  logo: duke.png
+
 - name: umh
   title: Universidad Miguel Hernández
   url: http://www.umh.es/
