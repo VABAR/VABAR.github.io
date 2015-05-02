@@ -8,15 +8,36 @@
   position: Professor
   url: http://www.uv.es
 
+- name: Antonio López
+  affiliation: uveg
+  position: Professor
+  url: http://www.uv.es
+
+- name: Blanca Sarz
+  affiliation: uveg
+  position: Graduate student
+  url: http://www.uv.es
+
+- name: Carmen Armero
+  affiliation: uveg
+  position: Professor
+  url: http://www.uv.es
+
+- name: Danilo Alvares
+  affiliation: uveg
+  position: Graduate student
+  url: http://www.uv.es
+  img: danilo.jpg
+
 - name: David Conesa
   affiliation: uveg
   position: Professor
   url: http://www.geeitema.org/conesa/
   img: david.jpg
 
-- name: Antonio López
+- name: Elena Lázaro
   affiliation: uveg
-  position: Professor
+  position: Graduate student
   url: http://www.uv.es
 
 - name: Francisco Santonja
@@ -29,27 +50,6 @@
   position: Graduate student
   url: http://www.uv.es
   img: hector.jpg
-
-- name: Blanca Sarz
-  affiliation: uveg
-  position: Graduate student
-  url: http://www.uv.es
-
-- name: Elena Lázaro
-  affiliation: uveg
-  position: Graduate student
-  url: http://www.uv.es
-
-- name: Danilo Alvares
-  affiliation: uveg
-  position: Graduate student
-  url: http://www.uv.es
-  img: danilo.jpg
-
-- name: Carmen Armero
-  affiliation: uveg
-  position: Professor
-  url: http://www.uv.es
 
 ## UMH
 
