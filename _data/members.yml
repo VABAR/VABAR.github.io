@@ -1,5 +1,6 @@
-# Member details
-# 
+## Member details
+##
+## images are stored in /images/members 
     
 ## UVEG
 
@@ -11,7 +12,8 @@
 - name: Antonio López
   affiliation: uveg
   position: Professor
-  url: http://www.uv.es
+  url: http://www.uv.es/antoniol
+  img: antonio.jpg
 
 - name: Blanca Sarz
   affiliation: uveg
