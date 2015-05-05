@@ -20,7 +20,7 @@ Counting {{ nmembers }} individuals from {{ ninstitutions }} institutions in 3 d
   {% for institution in site.data.institutions %}
     <div class="medium-6 large-4 columns">
       <a href="{{ institution.url }}">
-        <img class="t30" src="{{ site.url }}/images/institutions/{{ institution.logo }}">
+        <img class="t30 b15" src="{{ site.url }}/images/institutions/{{ institution.logo }}">
       </a>
       {% if institution.logo_has_title != true %}
         <p>
@@ -28,16 +28,24 @@ Counting {{ nmembers }} individuals from {{ ninstitutions }} institutions in 3 d
         </p>
       {% endif %}
 
-      <ul>
+<!--      <ul>-->
       {% for member in site.data.members %}
         {% if member.affiliation == institution.name %}
         <div class="row">
-          <li>
+<!--          <li>-->
           {% if member.img %}
+          
+            <!-- If there is an image, use it           -->
             <div class="small-3 columns">
-            <a href="{{ member.url }}">
-              <img src="{{ site.url }}/images/members/{{ member.img }}">
-            </a>
+              <a href="{{ member.url }}">
+                <img src="{{ site.url }}/images/members/{{ member.img }}">
+              </a>
+            </div><!-- /.small-3.columns -->
+            
+          {% else %}
+            <!-- If no image, leave an empty space         -->
+            <div class="small-3 columns">
+              &nbsp;
             </div><!-- /.small-3.columns -->
           {% endif %}
 
@@ -49,12 +57,12 @@ Counting {{ nmembers }} individuals from {{ ninstitutions }} institutions in 3 d
               {{ member.position }}
             </p>
           </div><!-- /.small-9.columns -->
-          </li>
+<!--          </li>-->
         </div><!-- /.row -->
 
         {% endif %}
       {% endfor %}
-      </ul>
+<!--      </ul>-->
     </div><!-- /.medium-6.columns -->
   {% endfor %}
 </div><!-- /.row -->
