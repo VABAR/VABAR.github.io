@@ -7,7 +7,8 @@
 - name: Anabel Forte
   affiliation: uveg
   position: Professor
-  url: http://www.uv.es
+  url: http://www.anabelforte.com
+  img: anabel.jpg
 
 - name: Antonio López
   affiliation: uveg
@@ -76,23 +77,26 @@
 
 ## URJC
 
-- name: María-Eugenia Castellano
+- name: María-Eugenia Castellanos
   affiliation: urjc
   position: Professor
-  url: http://www.urjc.es/
+  url: http://bayes.etsii.urjc.es/~mecastel
+  img: meugenia.jpg
 
 ## UC3M
 
-- name: Stefano Cabra
+- name: Stefano Cabras
   affiliation: uc3m
   position: Professor
-  url: http://www.uc3m.es/
+  url: http://portal.uc3m.es/portal/page/portal/dpto_estadistica/personal/Stefano_Cabras
+  img: stefano.jpg
 
 ## FISABIO
-- name: Jordi Pérez
+- name: Jordi Pérez-Panadés
   affiliation: fisabio
   position: Biostatistician
   url: http://fisabio.san.gva.es/
+  img: jordi.jpg
   
 - name: Rubén Amorós
   affiliation: fisabio
