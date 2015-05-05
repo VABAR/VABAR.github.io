@@ -20,6 +20,7 @@
   affiliation: uveg
   position: Graduate student
   url: http://www.uv.es
+  img: blanca.jpg
 
 - name: Carmen Armero
   affiliation: uveg
@@ -43,6 +44,7 @@
   affiliation: uveg
   position: Graduate student
   url: http://www.uv.es
+  img: elena.png
 
 - name: Francisco Santonja
   affiliation: uveg
@@ -69,6 +71,7 @@
   affiliation: uclm
   position: Professor
   url: http://www.uclm.es/profesorado/garcia-donato/
+  img: gonzalo.jpg
 
 - name: Virgilio Gómez-Rubio
   affiliation: uclm
@@ -102,12 +105,14 @@
   affiliation: fisabio
   position: Biostatistician
   url: http://fisabio.san.gva.es/
+  img: ruben.jpg
   
 ## IVIA
-- name: Joaquín Minay
+- name: Joaquín Martínez-Minaya
   affiliation: ivia
   position: Biostatistician
   url: http://www.ivia.gva.es/
+  img: joaquin.jpg
 
 ## INRA
 
