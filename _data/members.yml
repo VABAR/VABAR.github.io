@@ -50,7 +50,8 @@
   affiliation: uveg
   position: Professor
   url: http://www.uv.es
-
+  img: francisco.jpg
+  
 - name: Hèctor Perpiñán
   affiliation: uveg
   position: Graduate student
@@ -77,6 +78,7 @@
   affiliation: uclm
   position: Professor
   url: http://www.uclm.es/
+  img: virgilio.jpg
 
 ## URJC
 
