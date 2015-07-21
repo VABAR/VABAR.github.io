@@ -52,12 +52,6 @@
   url: http://www.uv.es
   img: francisco.jpg
   
-- name: Hèctor Perpiñán
-  affiliation: uveg
-  position: Graduate student
-  url: http://www.uv.es
-  img: hector.jpg
-
 ## UMH
 
 - name: Xavi Barber
@@ -102,6 +96,13 @@
   position: Biostatistician
   url: http://fisabio.san.gva.es/
   img: jordi.jpg
+  
+- name: Hèctor Perpiñán
+  affiliation: fisabio
+  position: Biostatistician
+  url: http://fisabio.san.gva.es/
+  img: hector.jpg
+
   
 - name: Rubén Amorós
   affiliation: fisabio
