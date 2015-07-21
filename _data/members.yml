@@ -91,18 +91,17 @@
   img: stefano.jpg
 
 ## FISABIO
-- name: Jordi Pérez-Panadés
-  affiliation: fisabio
-  position: Biostatistician
-  url: http://fisabio.san.gva.es/
-  img: jordi.jpg
-  
 - name: Hèctor Perpiñán
   affiliation: fisabio
   position: Biostatistician
   url: http://fisabio.san.gva.es/
   img: hector.jpg
 
+- name: Jordi Pérez-Panadés
+  affiliation: fisabio
+  position: Biostatistician
+  url: http://fisabio.san.gva.es/
+  img: jordi.jpg
   
 - name: Rubén Amorós
   affiliation: fisabio
