@@ -26,13 +26,13 @@
   logo: fisabio.png
   logo_has_title: true
   
-- name: hucsc
-  title: Hospital Universitario Clínico San Carlos
-  url: http://www.madrid.org/cs/Satellite?language=es&pagename=HospitalClinicoSanCarlos%2FPage%2FHCLN_home
-  city: Madrid
-  country: Spain
-  logo: hucsc.png
-  logo_has_title: true
+#- name: hucsc
+#  title: Hospital Universitario Clínico San Carlos
+#  url: http://www.madrid.org/cs/Satellite?language=es&pagename=HospitalClinicoSanCarlos%2FPage%2FHCLN_home
+#  city: Madrid
+#  country: Spain
+#  logo: hucsc.png
+#  logo_has_title: true
 
 - name: inra
   title: Institut Nacional de la Recherche Agronomique
