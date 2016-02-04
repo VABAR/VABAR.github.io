@@ -8,11 +8,11 @@ layout: frontpage
 title: "VABAR – VAlencia BAyesian Research group"
 header:
    image_fullwidth: "header_valencia.jpg"
-# widget-1:
-#    title: "Blog & Portfolio"
-#    url: 'http://phlow.github.io/feeling-responsive/blog/'
-#    text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
-#    image: unsplash_9-302x182.jpg
+widget-1:
+   title: "Research opportunities"
+   url: '/research-opportunities/'
+   text: 'Apply to make a research stay either at VaBaR, or with our partners BioSS in Scotland.'
+   image: banner_bioss.png
 # widget-2:
 #    title: "Why use this theme?"
 #    url: 'http://phlow.github.io/feeling-responsive/info/'
