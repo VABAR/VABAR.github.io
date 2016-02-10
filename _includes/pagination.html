@@ -7,7 +7,7 @@
 {% endcomment %}
 
 
-{% for post in paginator.posts %}
+{% for post in site.posts %}
   <div class="row">
     <div class="small-12 columns b60">
       <p class="subheadline"><span class="subheader">{% if post.categories %}{{ post.categories | join: ' &middot; ' }}{% endif %}</span> – {% if post.subheadline %}{{ post.subheadline }}{% endif %}</p>
