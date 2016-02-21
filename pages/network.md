@@ -16,7 +16,7 @@ permalink: "/network/"
 
     VaBaR and BioSS have closely related lines of research, and engaged to coordinate efforts and to exchange experiences.
 
-    - [ScoVa16]({{ site.url }}/events/2015/12/17/ScoVa16.html joint workshop
+    - [ScoVa16]({{ site.url }}/events/ScoVa16/) joint workshop
 
     - [Reciprocal exchange visits for PhD students and post-docs](bioss-exchange)
 
