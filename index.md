@@ -8,11 +8,11 @@ layout: frontpage
 title: "VABAR – VAlencia BAyesian Research group"
 header:
    image_fullwidth: "header_valencia.jpg"
-widget-1:
-   title: "Research opportunities"
-   url: '/research-opportunities/'
-   text: 'Apply to make a research stay either at VaBaR, or with our partners BioSS in Scotland.'
-   image: banner_bioss.png
+# widget-1:
+#    title: "Research opportunities"
+#    url: '/research-opportunities/'
+#    text: 'Apply to make a research stay either at VaBaR, or with our partners BioSS in Scotland.'
+#    image: banner_bioss.png
 # widget-2:
 #    title: "Why use this theme?"
 #    url: 'http://phlow.github.io/feeling-responsive/info/'
