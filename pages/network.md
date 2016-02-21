@@ -1,6 +1,8 @@
 ---
 layout: page
 show_meta: false
+header:
+    image_fullwidth: "unsplash_people.jpeg"
 title: "Network"
 subheadline: "National and International Scientific Connexions of Our Group"
 teaser: ""
