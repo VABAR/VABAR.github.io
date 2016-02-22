@@ -24,3 +24,5 @@ If you are interested in making an exchange visit, you can apply via the followi
 1. Write a short proposal (about 300 words) describing the project you wish to work on during the visit. The proposal should explain how the exchange visit will be beneficial to you.
 
 1. Email the proposal, together with a CV and suggesting dates for your visit, to (a) if you wish to visit VaBaR from BioSS: Carmen Armero (Carmen [dot] Armero [at] uv [dot] es), or (b) if you wish to visit BioSS from VaBaR: Mark Brewer (Mark [dot] Brewer [at] bioss [dot] ac [dot] uk).
+
+You can also email Carmen or Mark if you have any questions about the above procedure, for example if you are having difficulty at stage 2 above.
