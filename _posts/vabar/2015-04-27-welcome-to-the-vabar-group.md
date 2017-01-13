@@ -14,3 +14,4 @@ categories: vabar
 Apart from that, our [research lines](/research/) and experience are quite diverse, ranging from theoretical to applied statistics in many different fields.
 Our iconic tree represents this diversity, with its many branches of various sizes and shapes, some straight and others convoluted, but all of them growing from the same foundations.
 
+[Contact us!](/contact/)
