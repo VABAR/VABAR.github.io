@@ -42,13 +42,13 @@
   logo: inra.png
   logo_has_title: false
 
-- name: ivia
-  title: Instituto Valenciano de Investigaciones Agrarias
-  url: http://www.ivia.gva.es/
-  city: Valencia
-  country: Spain
-  logo: ivia.png
-  logo_has_title: true
+#- name: ivia
+#  title: Instituto Valenciano de Investigaciones Agrarias
+#  url: http://www.ivia.gva.es/
+#  city: Valencia
+#  country: Spain
+#  logo: ivia.png
+#  logo_has_title: true
 
 - name: umh
   title: Universidad Miguel Hernández
