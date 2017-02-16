@@ -14,9 +14,9 @@
   url: "/members/"
   side: left
 
-- title: Joint Curriculum
-  url: "/jointcv/"
-  side: left
+# - title: Joint Curriculum
+#  url: "/jointcv/"
+#  side: left
 
 - title: Network
   url: "/network/"
