@@ -13,6 +13,11 @@ header:
 #    url: '/research-opportunities/'
 #    text: 'Apply to make a research stay either at VaBaR, or with our partners BioSS in Scotland.'
 #    image: banner_bioss.png
+widget-1:
+   title: "València International Bayesian Analysis Summer School"
+   url: '/events/vibass/'
+   text: 'VIBASS I is the first edition of the summer school on Bayesian Statistics to be held from 17th until 21st July 2017 in València (Spain). VIBASS offers an opportunity to be introduced into the Bayesian reasoning without previous knowledge in the subject.'
+   image: widget-vibass17.png
 # widget-2:
 #    title: "Why use this theme?"
 #    url: 'http://phlow.github.io/feeling-responsive/info/'
