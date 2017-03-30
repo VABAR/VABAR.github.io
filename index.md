@@ -18,6 +18,16 @@ widget-1:
    url: '/events/vibass/'
    text: 'VIBASS I is the first edition of the summer school on Bayesian Statistics to be held from 17th until 21st July 2017 in València (Spain). VIBASS offers an opportunity to be introduced into the Bayesian reasoning without previous knowledge in the subject.'
    image: widget_vibass17.png
+widget-2:
+   title: "Aki Vehtari"
+   url: '/events/vibass/'
+   text: 'Invited course: <br> <i>«Bayesian modeling with Stan, predictive model assessment and comparison, and variable selection in large p, small n case.»</i>'
+   image: aki_vehtari.png
+widget-3:
+   title: "Invited talks"
+   url: '/events/vibass/'
+   text: '<b>María Grazia Pennino</b>: <i>«Assessing the Spatial Distribution of Species using Bayesian Hierarchical Models»</i> <br> <b>Mark Brewer</b>: <i>«Practical Application of Bayesian Methods in Ecology and Environmental Science»</i>'
+   image: maria_mark_2.png
 # widget-2:
 #    title: "Why use this theme?"
 #    url: 'http://phlow.github.io/feeling-responsive/info/'
