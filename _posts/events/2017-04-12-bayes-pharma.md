@@ -18,35 +18,21 @@ The Bayes Pharma conference focus on Bayesian approaches in pharmaceutical resea
 
 Co-organized by [VaBaR member](/members/) [Virgilio Gómez-Rubio](http://www.uclm.es/profesorado/vgomez/), this year's edition features a short course on __Bayesian Survival Models__ by 
 
+{% for member in site.data.members %}
+  {% if member.name == "Carmen Armero" or member.name == "Danilo Alvares" or member.name == "Elena Lázaro" %}
 <div class="row">
   <div class="small-2 columns">
-    <img src="{{ site.url }}/images/members/carmen.jpg">
+    <img src="{{ site.url }}/images/members/{{ member.img }}">
   </div>
   <div class="small-10 columns">
-    <a href="http://www.uv.es/armero/"> Carmen Armero </a> <br />
+    <a href="{{ member.url }}">
+      {{ member.name }}
+    </a> <br />
     Universitat de València, Spain
   </div>
-</div>
-
-<div class="row">
-  <div class="small-2 columns">
-    <img src="{{ site.url }}/images/members/danilo.jpg">
-  </div>
-  <div class="small-10 columns">
-    Danilo Alvares <br />
-    Universitat de València, Spain
-  </div>
-</div>
-
-<div class="row">
-  <div class="small-2 columns">
-    <img src="{{ site.url }}/images/members/elena.png">
-  </div>
-  <div class="small-10 columns">
-    Elena Lázaro <br />
-    Universitat de València, Spain
-  </div>
-</div>
+</div><!-- /.row -->
+  {% endif %}
+{% endfor %}
 
 
 Survival analysis is one of the most important areas of applied and theoretical research in Statistics, with many important contributions in life sciences. This small course focuses on Bayesian reasoning in survival models. It contains the most basic elements and procedures in the subject without a strong theoretical approach but a conceptual and applied perspective that enables comprehensive modeling. Topics will be illustrated by means of real studies
