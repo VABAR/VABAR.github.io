@@ -2,8 +2,8 @@
 layout: page
 title: "Bayes-Pharma 2017"
 subheadline: "Albacete, 22-25 May 2017"
-meta_teaser: "VaBaR course: _Introduction to Bayesian Survival Models_"
-teaser: "VaBaR course: _Introduction to Bayesian Survival Models_"
+meta_teaser: "VaBaR course: Introduction to Bayesian Survival Models"
+teaser: "VaBaR course: Introduction to Bayesian Survival Models"
 header: no
 image:
     title: header_bayes-pharma.png
