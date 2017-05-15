@@ -16,7 +16,7 @@ header:
 widget-1:
    title: "València International Bayesian Analysis Summer School"
    url: '/events/vibass/'
-   text: 'VIBASS I is the first edition of the summer school on Bayesian Statistics to be held from 17th until 21st July 2017 in València (Spain). VIBASS offers an opportunity to be introduced into the Bayesian reasoning without previous knowledge in the subject.'
+   text: 'VIBASS I is the first edition of the summer school on Bayesian Statistics to be held from 17th until 21st July 2017 in València (Spain). VIBASS offers an opportunity to be introduced into the Bayesian reasoning without previous knowledge in the subject.<br /><b>*** Early registration extended to May 30th ***</b>'
    image: widget_vibass17.png
 widget-2:
    title: "Aki Vehtari"
