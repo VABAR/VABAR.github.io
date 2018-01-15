@@ -15,19 +15,22 @@ header:
 #    image: banner_bioss.png
 widget-1:
    title: "València International Bayesian Analysis Summer School"
-   url: '/events/vibass/'
-   text: 'VIBASS I is the first edition of the summer school on Bayesian Statistics to be held from 17th until 21st July 2017 in València (Spain). VIBASS offers an opportunity to be introduced into the Bayesian reasoning without previous knowledge in the subject.<br /><b><a href="assets/vibass17/abstracts_book.pdf">Book of abstracts</a></b>'
-   image: widget_vibass17.png
+   url: '/events/vibass2/'
+   text: 'VIBASS 2 is the second edition of the summer school on Bayesian Statistics to be held from 16th until 20th July 2018 in València (Spain). VIBASS offers an opportunity to be introduced into the Bayesian reasoning without previous knowledge in the subject.
+   <!-- <br /><b><a href="assets/vibass17/abstracts_book.pdf">Book of abstracts</a></b> -->
+   '
+   <!-- image: widget_vibass17.png -->
 widget-2:
-   title: "Aki Vehtari"
-   url: '/events/vibass/'
-   text: 'Invited course: <br> <i>«Bayesian modeling with Stan, predictive model assessment and comparison, and variable selection in large p, small n case.»</i>'
-   image: aki_vehtari.png
+   title: "Nadja Klein & Nikolaus Umlauf"
+   url: '/events/vibass2/'
+   text: 'Invited course: <br> <i>«Structured Additive Regression Models with the R package BayesX»</i>'
+   image: nadja_nikolaus.png
 widget-3:
    title: "Invited talks"
    url: '/events/vibass/'
-   text: '<b>María Grazia Pennino</b>: <i>«Assessing the Spatial Distribution of Species using Bayesian Hierarchical Models»</i> <br> <b>Mark Brewer</b>: <i>«Practical Application of Bayesian Methods in Ecology and Environmental Science»</i>'
-   image: maria_mark_2.png
+   text: '<b>Paloma Botella</b><!--: <i>«Assessing the Spatial Distribution of Species using Bayesian Hierarchical Models»</i> --> Conselleria de Sanitat Universal i Salut Pública
+   <br> <b>Luigi Spezia</b><!-- : <i>«Practical Application of Bayesian Methods in Ecology and Environmental Science»</i> --> Biomathematics and Statistics Scotland, BioSS'
+   image: paloma_luigi.png
 # widget-2:
 #    title: "Why use this theme?"
 #    url: 'http://phlow.github.io/feeling-responsive/info/'
