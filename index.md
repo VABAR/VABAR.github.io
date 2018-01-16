@@ -24,7 +24,7 @@ widget-1:
 widget-2:
    title: "Nadja Klein & Nikolaus Umlauf"
    url: '/events/vibass2/'
-   text: 'Invited course: <br> <i>«Structured Additive Regression Models with the R package BayesX»</i>'
+   text: 'Invited course: <br> <i>«Bayesian modeling with BayesX»</i>'
    image: nadja_nikolaus.png
 widget-3:
    title: "Invited talks"
