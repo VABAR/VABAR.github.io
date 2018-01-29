@@ -20,7 +20,7 @@ widget-1:
    <br /> <a href="mailto:vibass@uv.es">vibass@uv.es</a>
    <!-- <br /><b><a href="assets/vibass17/abstracts_book.pdf">Book of abstracts</a></b> -->
    '
-   <!-- image: widget_vibass17.png -->
+   image: widget_vibass2.jpg
 widget-2:
    title: "Nadja Klein & Nikolaus Umlauf"
    url: '/events/vibass2/'
