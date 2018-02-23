@@ -1,5 +1,10 @@
 # Institution details
 # 
+# Ordering criterion:
+# UVEG first since it is the headquarters of the group
+# Duke next as Jim is the group's most prominent reference
+# The rest of institutions is sorted by decreasing number of members
+# and by alphabetic order.
     
 
 - name: uveg
@@ -18,13 +23,17 @@
   logo: duke.png
   logo_has_title: false
 
-- name: harvard
-  title: Harvard University
-  url: https://www.harvard.edu/
-  city: Boston, MA
-  country: USA
-  logo: harvard.png
-  logo_has_title: false
+# 3 members
+
+- name: uclm
+  title: Universidad Castilla La Mancha
+  url: http://www.uclm.es/
+  city: Albacete
+  country: Spain
+  logo: uclm.png
+  logo_has_title: true
+
+# 2 members
 
 - name: fisabio
   title: Fundación para el Fomento de la Investigación Sanitaria y Biomédica
@@ -33,6 +42,49 @@
   country: Spain
   logo: fisabio.png
   logo_has_title: true
+
+# 1 member
+
+- name: cirad
+  title: Centre de Coopération Internationale en Recherche Agronomique pour le Développement
+  url: https://www.cirad.fr/
+  city: Montpellier
+  country: France
+  logo: cirad.png
+  logo_has_title: false
+
+- name: harvard
+  title: Harvard University
+  url: https://www.harvard.edu/
+  city: Boston, MA
+  country: USA
+  logo: harvard.png
+  logo_has_title: false
+
+- name: uc3m
+  title: Universidad Carlos III
+  url: http://www.uc3m.es/
+  city: Madrid
+  country: Spain
+  logo: uc3m.jpg
+  logo_has_title: true
+
+- name: umh
+  title: Universidad Miguel Hernández
+  url: http://www.umh.es/
+  city: Elche
+  country: Spain
+  logo: umh.jpg
+  logo_has_title: true
+
+- name: urjc
+  title: Universidad Rey Juan Carlos
+  url: http://www.urjc.es/
+  city: Madrid
+  country: Spain
+  logo: urjc.jpg
+  logo_has_title: true
+
   
 #- name: hucsc
 #  title: Hospital Universitario Clínico San Carlos
@@ -50,14 +102,6 @@
 #   logo: inra.png
 #   logo_has_title: false
 
-- name: cirad
-  title: Centre de Coopération Internationale en Recherche Agronomique pour le Développement
-  url: https://www.cirad.fr/
-  city: Montpellier
-  country: France
-  logo: cirad.png
-  logo_has_title: false
-
 #- name: ivia
 #  title: Instituto Valenciano de Investigaciones Agrarias
 #  url: http://www.ivia.gva.es/
@@ -65,36 +109,4 @@
 #  country: Spain
 #  logo: ivia.png
 #  logo_has_title: true
-
-- name: umh
-  title: Universidad Miguel Hernández
-  url: http://www.umh.es/
-  city: Elche
-  country: Spain
-  logo: umh.jpg
-  logo_has_title: true
-
-- name: uclm
-  title: Universidad Castilla La Mancha
-  url: http://www.uclm.es/
-  city: Albacete
-  country: Spain
-  logo: uclm.png
-  logo_has_title: true
-
-- name: urjc
-  title: Universidad Rey Juan Carlos
-  url: http://www.urjc.es/
-  city: Madrid
-  country: Spain
-  logo: urjc.jpg
-  logo_has_title: true
-
-- name: uc3m
-  title: Universidad Carlos III
-  url: http://www.uc3m.es/
-  city: Madrid
-  country: Spain
-  logo: uc3m.jpg
-  logo_has_title: true
 
