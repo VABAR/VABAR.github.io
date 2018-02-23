@@ -13,9 +13,17 @@
 - name: duke
   title: Duke University
   url: http://www.duke.edu/
-  city: Durham
+  city: Durham, NC
   country: USA
   logo: duke.png
+  logo_has_title: false
+
+- name: harvard
+  title: Harvard University
+  url: https://www.harvard.edu/
+  city: Boston, MA
+  country: USA
+  logo: harvard.png
   logo_has_title: false
 
 - name: fisabio
