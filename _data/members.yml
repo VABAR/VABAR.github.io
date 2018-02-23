@@ -129,11 +129,11 @@
 #  url: http://www.tsc.urjc.es/fichaPersonal.php?id=373
 #  img: alicia.jpg
 
-## INRA
+## CIRAD
 
 - name: Facundo Muñoz
-  affiliation: inra
-  position: Postdoctoral Fellow
+  affiliation: cirad
+  position: Biostatistician
   url: http://www.uv.es/famarmu
   img: facu.jpg
 

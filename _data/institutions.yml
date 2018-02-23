@@ -34,12 +34,20 @@
 #  logo: hucsc.png
 #  logo_has_title: true
 
-- name: inra
-  title: Institut Nacional de la Recherche Agronomique
-  url: http://www.inra.fr
-  city: Orléans
+# - name: inra
+#   title: Institut Nacional de la Recherche Agronomique
+#   url: http://www.inra.fr
+#   city: Orléans
+#   country: France
+#   logo: inra.png
+#   logo_has_title: false
+
+- name: cirad
+  title: Centre de Coopération Internationale en Recherche Agronomique pour le Développement
+  url: https://www.cirad.fr/
+  city: Montpellier
   country: France
-  logo: inra.png
+  logo: cirad.png
   logo_has_title: false
 
 #- name: ivia
