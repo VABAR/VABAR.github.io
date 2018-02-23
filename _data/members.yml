@@ -107,24 +107,22 @@
   url: http://portal.uc3m.es/portal/page/portal/dpto_estadistica/personal/Stefano_Cabras
   img: stefano.jpg
 
-## FISABIO
+## Institut de Recerca Biomèdica de Lleida
 - name: Hèctor Perpiñán
-  affiliation: fisabio
+  affiliation: irbl
   position: Biostatistician
-  url: http://fisabio.san.gva.es/
+  url: http://www.irblleida.org/
   img: hector.jpg
 
-# - name: Jordi Pérez-Panadés
-#   affiliation: fisabio
-#   position: Biostatistician
-#   url: http://fisabio.san.gva.es/
-#   img: jordi.jpg
-  
+
+## University of Edinburgh
+
 - name: Rubén Amorós
-  affiliation: fisabio
-  position: Biostatistician
-  url: http://fisabio.san.gva.es/
+  affiliation: tuoe
+  position: Postdoctoral Research Associate
+  url: https://www.ed.ac.uk/
   img: ruben.jpg
+
   
 ### HUCSC
 #- name:  Alicia Quirós Carretero
@@ -149,3 +147,11 @@
   url: https://stat.duke.edu/~berger/
   img: jim.jpg
 
+## FISABIO
+
+# - name: Jordi Pérez-Panadés
+#   affiliation: fisabio
+#   position: Biostatistician
+#   url: http://fisabio.san.gva.es/
+#   img: jordi.jpg
+  

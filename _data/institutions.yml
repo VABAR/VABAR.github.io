@@ -33,15 +33,6 @@
   logo: uclm.png
   logo_has_title: true
 
-# 2 members
-
-- name: fisabio
-  title: Fundación para el Fomento de la Investigación Sanitaria y Biomédica
-  url: http://fisabio.san.gva.es/
-  city: Valencia
-  country: Spain
-  logo: fisabio.png
-  logo_has_title: true
 
 # 1 member
 
@@ -59,7 +50,23 @@
   city: Boston, MA
   country: USA
   logo: harvard.png
-  logo_has_title: false
+  logo_has_title: true
+
+- name: irbl
+  title: Institut de Recerca Biomèdica de Lleida
+  url: http://www.irblleida.org/
+  city: Lleida
+  country: Spain
+  logo:  irbl.png
+  logo_has_title: true
+
+- name: tuoe
+  title: The University of Edinburgh
+  url: https://www.ed.ac.uk/
+  city: Edinburgh
+  country: UK
+  logo: tuoe.png
+  logo_has_title: true
 
 - name: uc3m
   title: Universidad Carlos III
@@ -110,3 +117,10 @@
 #  logo: ivia.png
 #  logo_has_title: true
 
+# - name: fisabio
+#   title: Fundación para el Fomento de la Investigación Sanitaria y Biomédica
+#   url: http://fisabio.san.gva.es/
+#   city: Valencia
+#   country: Spain
+#   logo: fisabio.png
+#   logo_has_title: true
