@@ -23,14 +23,14 @@ widget-1:
    image: widget_vibass2.jpg
 widget-2:
    title: "Nadja Klein & Nikolaus Umlauf"
-   url: '/events/vibass2/'
+   url: '/events/vibass2-course/'
    text: 'Invited course: <br> <i>«Bayesian modeling with BayesX»</i>'
    image: nadja_nikolaus.png
 widget-3:
    title: "Invited talks"
-   url: '/events/vibass/'
-   text: '<b>Paloma Botella</b><!--: <i>«Assessing the Spatial Distribution of Species using Bayesian Hierarchical Models»</i> --> Conselleria de Sanitat Universal i Salut Pública
-   <br> <b>Luigi Spezia</b><!-- : <i>«Practical Application of Bayesian Methods in Ecology and Environmental Science»</i> --> Biomathematics and Statistics Scotland, BioSS'
+   url: '/events/vibass2-talks/'
+   text: '<b>Paloma Botella</b>: <i>«From Multivariate to Multidimensional Bayesian Disease Mapping»</i> Conselleria de Sanitat Universal i Salut Pública
+   <br> <b>Luigi Spezia</b> : <i>«Markov Switching Models For High-Frequency Time Series From Automatic Monitoring Of Animals»</i> Biomathematics and Statistics Scotland, BioSS, Aberdeen, UK'
    image: paloma_luigi.png
 # widget-2:
 #    title: "Why use this theme?"
