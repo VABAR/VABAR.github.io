@@ -8,7 +8,6 @@ header:
   title: VIBASS2 - Invited Talks
   image_fullwidth: header_vibass18.png
   caption: Registration form
-  caption_url: http://congresos.adeituv.es/VIBASS2/
 image:
   thumb: widget_vibass2.png
   homepage: vibass2.jpg
