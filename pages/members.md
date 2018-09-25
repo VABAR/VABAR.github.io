@@ -17,8 +17,42 @@ permalink: "/members/"
 Counting {{ nmembers }} individuals from {{ ninstitutions }} institutions in 4 different countries
 
 <div class="row">
-  {% for institution in site.data.institutions %}
+  {% for member in site.data.members %}
     <div class="medium-6 large-4 columns">
+	    <div class="row">
+	<!--          <li>-->
+	      {% if member.img %}
+	          <a href="{{ member.url }}">
+	            <img src="{{ site.url }}/images/members/{{ member.img }}">
+	          </a>
+	      {% else %}
+	          &nbsp;
+	      {% endif %}
+	      	<br/>
+	        <a href="{{ member.url }}">
+	          {{ member.name }}
+	        </a>
+	        <p>
+	          {{ member.position }}<br>
+	          {% for institution in site.data.institutions %}
+	          	{% if institution.name == member.affiliation %}
+	          		<a href="{{ institution.url }}">
+	          			{{ institution.title }}
+	          		</a>
+	          	{% endif %}
+			  {% endfor %}
+	        </p>
+	<!--          </li>-->
+	    </div><!-- /.row -->
+    </div><!-- /.column -->
+  {% endfor %}
+</div><!-- /.row -->
+
+<hr> 
+
+<div class="row">
+  {% for institution in site.data.institutions %}
+    <div class="medium-4 large-3 columns">
       <a href="{{ institution.url }}">
         <img class="t30 b15" src="{{ site.url }}/images/institutions/{{ institution.logo }}">
       </a>
@@ -27,42 +61,6 @@ Counting {{ nmembers }} individuals from {{ ninstitutions }} institutions in 4 d
           <a href="{{ institution.url }}">{{ institution.title }}</a>
         </p>
       {% endif %}
-
-<!--      <ul>-->
-      {% for member in site.data.members %}
-        {% if member.affiliation == institution.name %}
-        <div class="row">
-<!--          <li>-->
-          {% if member.img %}
-          
-            <!-- If there is an image, use it           -->
-            <div class="small-3 columns">
-              <a href="{{ member.url }}">
-                <img src="{{ site.url }}/images/members/{{ member.img }}">
-              </a>
-            </div><!-- /.small-3.columns -->
-            
-          {% else %}
-            <!-- If no image, leave an empty space         -->
-            <div class="small-3 columns">
-              &nbsp;
-            </div><!-- /.small-3.columns -->
-          {% endif %}
-
-          <div class="small-9 columns end">
-            <a href="{{ member.url }}">
-              {{ member.name }}
-            </a>
-            <p>
-              {{ member.position }}
-            </p>
-          </div><!-- /.small-9.columns -->
-<!--          </li>-->
-        </div><!-- /.row -->
-
-        {% endif %}
-      {% endfor %}
-<!--      </ul>-->
     </div><!-- /.medium-6.columns -->
   {% endfor %}
 </div><!-- /.row -->

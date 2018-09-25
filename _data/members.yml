@@ -1,59 +1,8 @@
 ## Member details
+## (sorted by alphabetic order of surname)
 ##
 ## images are stored in /images/members 
     
-## UVEG
-
-- name: Anabel Forte
-  affiliation: uveg
-  position: Professor
-  url: http://www.anabelforte.com
-  img: anabel.jpg
-
-- name: Antonio López
-  affiliation: uveg
-  position: Professor
-  url: http://www.uv.es/antoniol
-  img: antonio.jpg
-
-- name: Blanca Sarzo
-  affiliation: uveg
-  position: Graduate student
-  url: http://www.uv.es
-  img: blanca.jpg
-
-- name: Carmen Armero
-  affiliation: uveg
-  position: Professor
-  url: http://www.uv.es/armero/
-  img: carmen.jpg
-
-- name: David Conesa
-  affiliation: uveg
-  position: Professor
-  url: http://www.geeitema.org/conesa/
-  img: david.jpg
-
-- name: Elena Lázaro
-  affiliation: uveg
-  position: Graduate student
-  url: http://www.uv.es
-  img: elena.png
-
-- name: Francisco Santonja
-  affiliation: uveg
-  position: Professor
-  url: http://www.uv.es
-  img: francisco.jpg
-
-- name: Joaquín Martínez-Minaya
-  affiliation: uveg
-  position: Graduate student
-  url: http://www.uv.es
-  img: joaquin.jpg
-
-
-## HARVARD 
 
 - name: Danilo Alvares
   affiliation: harvard
@@ -61,9 +10,17 @@
   url: https://sites.google.com/site/daniloalvares/
   img: danilo.jpg
 
+- name: Rubén Amorós
+  affiliation: tuoe
+  position: Postdoctoral Research Associate
+  url: https://www.ed.ac.uk/
+  img: ruben.jpg
 
-  
-## UMH
+- name: Carmen Armero
+  affiliation: uveg
+  position: Professor
+  url: http://www.uv.es/armero/
+  img: carmen.jpg
 
 - name: Xavi Barber
   affiliation: umh
@@ -71,7 +28,35 @@
   url: http://xavierbarber.edu.umh.es/
   img: xavi.jpg
 
-## UCLM
+- name: Jim Berger
+  affiliation: duke
+  position: Professor
+  url: https://stat.duke.edu/~berger/
+  img: jim.jpg
+
+- name: Stefano Cabras
+  affiliation: uc3m
+  position: Professor
+  url: http://portal.uc3m.es/portal/page/portal/dpto_estadistica/personal/Stefano_Cabras
+  img: stefano.jpg
+
+- name: María-Eugenia Castellanos
+  affiliation: urjc
+  position: Professor
+  url: http://mecastellanos.wordpress.com
+  img: meugenia.jpg
+
+- name: David Conesa
+  affiliation: uveg
+  position: Professor
+  url: http://www.geeitema.org/conesa/
+  img: david.jpg
+
+- name: Anabel Forte
+  affiliation: uveg
+  position: Professor
+  url: http://www.anabelforte.com
+  img: anabel.jpg
 
 - name: Gonzalo García-Donato
   affiliation: uclm
@@ -85,53 +70,23 @@
   url: http://www.uclm.es/profesorado/vgomez/
   img: virgilio.jpg
 
-- name: Francisco Palmí
-  affiliation: uclm
-  position: PhD student
-  url: https://es.linkedin.com/in/franciscopalmi
-  img: fpalmi.jpg
+- name: Elena Lázaro
+  affiliation: uveg
+  position: Graduate student
+  url: http://www.uv.es
+  img: elena.png
 
-## URJC
-
-- name: María-Eugenia Castellanos
-  affiliation: urjc
+- name: Antonio López
+  affiliation: uveg
   position: Professor
-  url: http://mecastellanos.wordpress.com
-  img: meugenia.jpg
+  url: http://www.uv.es/antoniol
+  img: antonio.jpg
 
-## UC3M
-
-- name: Stefano Cabras
-  affiliation: uc3m
-  position: Professor
-  url: http://portal.uc3m.es/portal/page/portal/dpto_estadistica/personal/Stefano_Cabras
-  img: stefano.jpg
-
-## Institut de Recerca Biomèdica de Lleida
-- name: Hèctor Perpiñán
-  affiliation: irbl
-  position: Biostatistician
-  url: http://www.irblleida.org/
-  img: hector.jpg
-
-
-## University of Edinburgh
-
-- name: Rubén Amorós
-  affiliation: tuoe
-  position: Postdoctoral Research Associate
-  url: https://www.ed.ac.uk/
-  img: ruben.jpg
-
-  
-### HUCSC
-#- name:  Alicia Quirós Carretero
-#  affiliation: hucsc
-#  position: Researcher
-#  url: http://www.tsc.urjc.es/fichaPersonal.php?id=373
-#  img: alicia.jpg
-
-## CIRAD
+- name: Joaquín Martínez-Minaya
+  affiliation: uveg
+  position: Graduate student
+  url: http://www.uv.es
+  img: joaquin.jpg
 
 - name: Facundo Muñoz
   affiliation: cirad
@@ -139,19 +94,26 @@
   url: http://www.uv.es/famarmu
   img: facu.jpg
 
-## DUKE
+- name: Francisco Palmí
+  affiliation: uclm
+  position: PhD student
+  url: https://es.linkedin.com/in/franciscopalmi
+  img: fpalmi.jpg
 
-- name: Jim Berger
-  affiliation: duke
+- name: Hèctor Perpiñán
+  affiliation: irbl
+  position: Biostatistician
+  url: http://www.irblleida.org/
+  img: hector.jpg
+
+- name: Francisco Santonja
+  affiliation: uveg
   position: Professor
-  url: https://stat.duke.edu/~berger/
-  img: jim.jpg
+  url: http://www.uv.es
+  img: francisco.jpg
 
-## FISABIO
-
-# - name: Jordi Pérez-Panadés
-#   affiliation: fisabio
-#   position: Biostatistician
-#   url: http://fisabio.san.gva.es/
-#   img: jordi.jpg
-  
+- name: Blanca Sarzo
+  affiliation: uveg
+  position: Graduate student
+  url: http://www.uv.es
+  img: blanca.jpg

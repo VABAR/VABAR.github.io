@@ -7,13 +7,13 @@
 # and by alphabetic order.
     
 
-- name: uveg
-  title: Universitat de València
-  url: http://ww.uv.es
-  city: Valencia
-  country: Spain
-  logo: uveg.jpg
-  logo_has_title: true
+- name: cirad
+  title: Centre de Coopération Internationale en Recherche Agronomique pour le Développement
+  url: https://www.cirad.fr/
+  city: Montpellier
+  country: France
+  logo: cirad.png
+  logo_has_title: false
 
 - name: duke
   title: Duke University
@@ -21,27 +21,6 @@
   city: Durham, NC
   country: USA
   logo: duke.png
-  logo_has_title: false
-
-# 3 members
-
-- name: uclm
-  title: Universidad Castilla La Mancha
-  url: http://www.uclm.es/
-  city: Albacete
-  country: Spain
-  logo: uclm.png
-  logo_has_title: true
-
-
-# 1 member
-
-- name: cirad
-  title: Centre de Coopération Internationale en Recherche Agronomique pour le Développement
-  url: https://www.cirad.fr/
-  city: Montpellier
-  country: France
-  logo: cirad.png
   logo_has_title: false
 
 - name: harvard
@@ -76,6 +55,14 @@
   logo: uc3m.jpg
   logo_has_title: true
 
+- name: uclm
+  title: Universidad Castilla La Mancha
+  url: http://www.uclm.es/
+  city: Albacete
+  country: Spain
+  logo: uclm.png
+  logo_has_title: true
+
 - name: umh
   title: Universidad Miguel Hernández
   url: http://www.umh.es/
@@ -90,6 +77,14 @@
   city: Madrid
   country: Spain
   logo: urjc.jpg
+  logo_has_title: true
+
+- name: uveg
+  title: Universitat de València
+  url: http://www.uv.es
+  city: Valencia
+  country: Spain
+  logo: uveg.jpg
   logo_has_title: true
 
   
