@@ -14,7 +14,7 @@ permalink: "/members/"
   {% capture nmembers %}{{ forloop.length }}{% endcapture %}
 {% endfor %}
 
-Counting {{ nmembers }} individuals from {{ ninstitutions }} institutions in 4 different countries
+Counting {{ nmembers }} individuals from {{ ninstitutions }} institutions in 5 different countries
 
 <div class="row">
   {% for member in site.data.members %}
