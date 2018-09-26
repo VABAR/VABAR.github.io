@@ -47,6 +47,14 @@
   logo: ivia.png
   logo_has_title: false
 
+- name: pucc
+  title: Pontificia Universidad Católica de Chile
+  url: http://www.uc.cl/
+  city: Santiago de Chile
+  country: Chile
+  logo: pucc.png
+  logo_has_title: true
+  
 - name: tuoe
   title: The University of Edinburgh
   url: https://www.ed.ac.uk/
