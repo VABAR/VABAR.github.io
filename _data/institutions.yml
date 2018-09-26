@@ -39,6 +39,14 @@
   logo:  irbl.png
   logo_has_title: true
 
+- name: ivia
+  title: Instituto Valenciano de Investigaciones Agrarias
+  url: http://www.ivia.gva.es/
+  city: Valencia
+  country: Spain
+  logo: ivia.png
+  logo_has_title: false
+
 - name: tuoe
   title: The University of Edinburgh
   url: https://www.ed.ac.uk/
@@ -103,14 +111,6 @@
 #   country: France
 #   logo: inra.png
 #   logo_has_title: false
-
-#- name: ivia
-#  title: Instituto Valenciano de Investigaciones Agrarias
-#  url: http://www.ivia.gva.es/
-#  city: Valencia
-#  country: Spain
-#  logo: ivia.png
-#  logo_has_title: true
 
 # - name: fisabio
 #   title: Fundación para el Fomento de la Investigación Sanitaria y Biomédica
