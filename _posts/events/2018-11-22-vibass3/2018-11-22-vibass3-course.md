@@ -7,8 +7,8 @@ teaser: VIBASS3 Invited Course
 header:
   title: VIBASS 3
   image_fullwidth: header_vibass18.png
-  caption: Registration open soon
-  #caption_url: http://congresos.adeituv.es/VIBASS3/
+  caption: Registration and call for papers
+  caption_url: http://congresos.adeituv.es/VIBASS3/
 image:
   #thumb: widget_vibass2.png
   #homepage: vibass2.jpg
