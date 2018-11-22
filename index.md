@@ -20,7 +20,7 @@ widget-1:
    <br /> <a href="http://congresos.adeituv.es/VIBASS3/">Registration and call for papers</a>
    <br /> <a href="mailto:vibass@uv.es">vibass@uv.es</a>
    '
-   #image: widget_vibass2.jpg
+   image: widget_vibass.png
 widget-2:
    title: "Daniel Turek"
    url: '/events/vibass3-course/'
