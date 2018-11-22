@@ -15,23 +15,21 @@ header:
 #    image: banner_bioss.png
 widget-1:
    title: "València International Bayesian Analysis Summer School"
-   url: '/events/vibass2/'
-   text: 'VIBASS 2 is the second edition of the summer school on Bayesian Statistics to be held from 16th until 20th July 2018 in València (Spain). VIBASS offers an opportunity to be introduced into the Bayesian reasoning without previous knowledge in the subject.
+   url: '/events/vibass3/'
+   text: 'VIBASS 3 is the third edition of the summer school on Bayesian Statistics to be held from 22nd until 26th July 2019 in València (Spain). VIBASS offers an opportunity to be introduced into the Bayesian reasoning without previous knowledge in the subject.
    <br /> <a href="mailto:vibass@uv.es">vibass@uv.es</a>
-   <!-- <br /><b><a href="assets/vibass17/abstracts_book.pdf">Book of abstracts</a></b> -->
    '
-   image: widget_vibass2.jpg
+   #image: widget_vibass2.jpg
 widget-2:
-   title: "Nadja Klein & Nikolaus Umlauf"
-   url: '/events/vibass2-course/'
-   text: 'Invited course: <br> <i>«Bayesian modeling with BayesX»</i>'
-   image: nadja_nikolaus.png
+   title: "Daniel Turek"
+   url: '/events/vibass3-course/'
+   text: 'Invited course: <br> <i>«Applied Bayesian Computation: The NIMBLE Platform for Hierarchical Modeling and MCMC»</i> <br /> <a href="https://r-nimble.org/"><img src="images/nimble-logo-oval-small.png", target="blank"></a>'
+   image: daniel_turek.png
 widget-3:
    title: "Invited talks"
-   url: '/events/vibass2-talks/'
-   text: '<b>Paloma Botella</b>: <i>«From Multivariate to Multidimensional Bayesian Disease Mapping»</i> Conselleria de Sanitat Universal i Salut Pública
-   <br> <b>Luigi Spezia</b> : <i>«Markov Switching Models For High-Frequency Time Series From Automatic Monitoring Of Animals»</i> Biomathematics and Statistics Scotland, BioSS, Aberdeen, UK'
-   image: paloma_luigi.png
+   url: '/events/vibass3-talks/'
+   text: 'Soon to be confirmed'
+   #image: paloma_luigi.png
 # widget-2:
 #    title: "Why use this theme?"
 #    url: 'http://phlow.github.io/feeling-responsive/info/'
