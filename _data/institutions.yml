@@ -15,6 +15,14 @@
   logo: cirad.png
   logo_has_title: false
 
+- name: sangva
+  title: Generalitat Valenciana - Conselleria de Sanitat Universal i Salut Pública.
+  url: http://www.san.gva.es/
+  city: Valencia
+  country: Spain
+  logo: sangva.png
+  logo_has_title: true
+
 - name: duke
   title: Duke University
   url: http://www.duke.edu/
@@ -29,14 +37,6 @@
   city: Boston, MA
   country: USA
   logo: harvard.png
-  logo_has_title: true
-
-- name: irbl
-  title: Institut de Recerca Biomèdica de Lleida
-  url: http://www.irblleida.org/
-  city: Lleida
-  country: Spain
-  logo:  irbl.png
   logo_has_title: true
 
 - name: ivia
@@ -127,3 +127,12 @@
 #   country: Spain
 #   logo: fisabio.png
 #   logo_has_title: true
+
+#- name: irbl
+#  title: Institut de Recerca Biomèdica de Lleida
+#  url: http://www.irblleida.org/
+#  city: Lleida
+#  country: Spain
+#  logo:  irbl.png
+#  logo_has_title: true
+
