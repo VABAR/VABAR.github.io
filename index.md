@@ -29,8 +29,8 @@ widget-2:
 widget-3:
    title: "Invited talks"
    url: '/events/vibass3-talks/'
-   text: 'Soon to be confirmed'
-   #image: paloma_luigi.png
+   text: 'Eleni Matechou & Gonzalo García-Donato'
+   image: eleni_gonzalo.png
 # widget-2:
 #    title: "Why use this theme?"
 #    url: 'http://phlow.github.io/feeling-responsive/info/'
