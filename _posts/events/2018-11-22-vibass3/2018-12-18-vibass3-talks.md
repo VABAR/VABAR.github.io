@@ -1,16 +1,16 @@
 ---
 layout: page
-title: "VIBASS2 - Invited Talks"
+title: "VIBASS3 - Invited Talks"
 subheadline: "July 20, 2018"
 meta_teaser: "Invited Talks"
 teaser: Invited Talks
 header:
-  title: VIBASS2 - Invited Talks
+  title: VIBASS3 - Invited Talks
   image_fullwidth: header_vibass18.png
   caption: Registration form
 image:
-  thumb: widget_vibass2.png
-  homepage: vibass2.jpg
+  thumb: widget_vibass3.png
+  homepage: vibass3.jpg
 categories: events
 ---
 
