@@ -29,7 +29,9 @@ widget-2:
 widget-3:
    title: "Invited talks"
    url: '/events/vibass3-talks/'
-   text: 'Eleni Matechou & Gonzalo García-Donato'
+   text: 'Eleni Matechou & Gonzalo García-Donato<br />
+   <i>Bayesian modelling of environmental DNA data</i><br />
+   <i>Model Averaging techniques from a Bayesian perspective</i>'
    image: eleni_gonzalo.png
 # widget-2:
 #    title: "Why use this theme?"
