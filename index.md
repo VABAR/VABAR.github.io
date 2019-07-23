@@ -13,7 +13,15 @@ header:
 #    url: '/research-opportunities/'
 #    text: 'Apply to make a research stay either at VaBaR, or with our partners BioSS in Scotland.'
 #    image: banner_bioss.png
+
 widget-1:
+   title: "València International Bayesian Analysis Summer School"
+   # url: '/events/vibass4/'
+   text: 'Announcing the 4th edition of VIBASS summer school on Bayesian Statistics to be held from 13 to 17 July 2020 in València (Spain). VIBASS offers an opportunity to be introduced into the Bayesian reasoning without previous knowledge in the subject. SAVE THE DATE.
+   '
+   # image: widget_vibass3.jpg
+
+widget-2:
    title: "València International Bayesian Analysis Summer School"
    url: '/events/vibass3/'
    text: 'VIBASS 3 is the third edition of the summer school on Bayesian Statistics to be held from 22nd until 26th July 2019 in València (Spain). VIBASS offers an opportunity to be introduced into the Bayesian reasoning without previous knowledge in the subject.
@@ -21,18 +29,20 @@ widget-1:
    <br /> <a href="mailto:vibass@uv.es">vibass@uv.es</a>
    '
    image: widget_vibass3.jpg
-widget-2:
-   title: "Daniel Turek"
-   url: '/events/vibass3-course/'
-   text: 'Invited course: <br> <i>«Applied Bayesian Computation: The NIMBLE Platform for Hierarchical Modeling and MCMC»</i> <br /> <a href="https://r-nimble.org/"><img src="images/nimble-logo-oval-small.png", target="blank"></a>'
-   image: daniel_turek.png
-widget-3:
-   title: "Invited talks"
-   url: '/events/vibass3-talks/'
-   text: 'Eleni Matechou & Gonzalo García-Donato<br />
-   <i>Bayesian modelling of environmental DNA data</i><br />
-   <i>Model Averaging techniques from a Bayesian perspective</i>'
-   image: eleni_gonzalo.png
+
+
+# widget-2:
+#    title: "Daniel Turek"
+#    url: '/events/vibass3-course/'
+#    text: 'Invited course: <br> <i>«Applied Bayesian Computation: The NIMBLE Platform for Hierarchical Modeling and MCMC»</i> <br /> <a href="https://r-nimble.org/"><img src="images/nimble-logo-oval-small.png", target="blank"></a>'
+#    image: daniel_turek.png
+# widget-3:
+#    title: "Invited talks"
+#    url: '/events/vibass3-talks/'
+#    text: 'Eleni Matechou & Gonzalo García-Donato<br />
+#    <i>Bayesian modelling of environmental DNA data</i><br />
+#    <i>Model Averaging techniques from a Bayesian perspective</i>'
+#    image: eleni_gonzalo.png
 # widget-2:
 #    title: "Why use this theme?"
 #    url: 'http://phlow.github.io/feeling-responsive/info/'
