@@ -16,33 +16,33 @@ header:
 
 widget-1:
    title: "València International Bayesian Analysis Summer School"
-   # url: '/events/vibass4/'
-   text: 'Announcing the 4th edition of VIBASS summer school on Bayesian Statistics to be held from 13 to 17 July 2020 in València (Spain). VIBASS offers an opportunity to be introduced into the Bayesian reasoning without previous knowledge in the subject. SAVE THE DATE.
+   url: '/events/vibass4/'
+   text: 'Announcing the 4th edition of VIBASS summer school on Bayesian Statistics to be held from 13 to 17 July 2020 in València (Spain). VIBASS offers an opportunity to be introduced into the Bayesian reasoning without previous knowledge in the subject.
    '
    # image: widget_vibass3.jpg
 
+#widget-2:
+#   title: "València International Bayesian Analysis Summer School"
+#   url: '/events/vibass3/'
+#   text: 'VIBASS 3 is the third edition of the summer school on Bayesian Statistics to be held from 22nd until 26th July 2019 in València (Spain). VIBASS offers an opportunity to be introduced into the Bayesian reasoning without previous knowledge in the subject.
+#   <br /> <a href="http://congresos.adeituv.es/VIBASS3/">Registration and call for papers</a>
+#   <br /> <a href="mailto:vibass@uv.es">vibass@uv.es</a>
+#   '
+#   image: widget_vibass3.jpg
+
+
 widget-2:
-   title: "València International Bayesian Analysis Summer School"
-   url: '/events/vibass3/'
-   text: 'VIBASS 3 is the third edition of the summer school on Bayesian Statistics to be held from 22nd until 26th July 2019 in València (Spain). VIBASS offers an opportunity to be introduced into the Bayesian reasoning without previous knowledge in the subject.
-   <br /> <a href="http://congresos.adeituv.es/VIBASS3/">Registration and call for papers</a>
-   <br /> <a href="mailto:vibass@uv.es">vibass@uv.es</a>
-   '
-   image: widget_vibass3.jpg
-
-
-# widget-2:
-#    title: "Daniel Turek"
-#    url: '/events/vibass3-course/'
-#    text: 'Invited course: <br> <i>«Applied Bayesian Computation: The NIMBLE Platform for Hierarchical Modeling and MCMC»</i> <br /> <a href="https://r-nimble.org/"><img src="images/nimble-logo-oval-small.png", target="blank"></a>'
-#    image: daniel_turek.png
-# widget-3:
-#    title: "Invited talks"
-#    url: '/events/vibass3-talks/'
-#    text: 'Eleni Matechou & Gonzalo García-Donato<br />
-#    <i>Bayesian modelling of environmental DNA data</i><br />
-#    <i>Model Averaging techniques from a Bayesian perspective</i>'
-#    image: eleni_gonzalo.png
+   title: "J. van Niekerk & H. Rue"
+   url: '/events/vibass4-course/'
+   text: 'Invited course: <br> <i>«Bayesian computation with <a href="http://www.r-inla.org/">R-INLA</a>»</i>'
+   image: janet_havard.jpg
+widget-3:
+   title: "Invited talks"
+   url: '/events/vibass4-talks/'
+   text: 'Paula Moraga & David Rosell<br />
+   <i>TBA</i><br />
+   <i>TBA</i>'
+   image: paula_david.jpg
 # widget-2:
 #    title: "Why use this theme?"
 #    url: 'http://phlow.github.io/feeling-responsive/info/'
