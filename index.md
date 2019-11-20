@@ -41,7 +41,7 @@ widget-3:
    url: '/events/vibass4-talks/'
    text: 'Paula Moraga & David Rosell<br />
    <i>TBA</i><br />
-   <i>TBA</i>'
+   <i>Illustrating the flexibility of Bayesian models: from cancer medicine to political tweets</i>'
    image: paula_david.jpg
 # widget-2:
 #    title: "Why use this theme?"
