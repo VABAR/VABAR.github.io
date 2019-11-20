@@ -22,6 +22,10 @@
   url: "/network/"
   side: left
 
+- title: Code of conduct
+  url: "/coc/"
+  side: left
+
 
 # - title: Documentation
 #  url: "/documentation/"
