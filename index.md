@@ -19,7 +19,7 @@ widget-1:
    url: '/events/vibass4/'
    text: 'Announcing the 4th edition of VIBASS summer school on Bayesian Statistics to be held from 13 to 17 July 2020 in València (Spain). VIBASS offers an opportunity to be introduced into the Bayesian reasoning without previous knowledge in the subject.
    '
-   # image: widget_vibass3.jpg
+   image: widget_vibass4.jpg
 
 #widget-2:
 #   title: "València International Bayesian Analysis Summer School"
