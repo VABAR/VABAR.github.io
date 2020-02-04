@@ -15,8 +15,9 @@ categories: events
 ---
 
 
-## TBA
+## Bayesian risk models for tropical disease mapping
 
+Bayesian risk models provide a flexible and robust approach for spatial modeling of disease. Taking point observations of disease prevalence from a spatially sparse set of surveys, and using a suite of demographic, environmental and climate risk factors, the formulation of a Bayesian model enables the prediction of disease prevalence at unsampled locations, and the generation of continuous disease risk maps. These maps are useful to understand the geographic and temporal patterns of disease, identify risk factors, and generate new hypotheses about disease transmission. In this talk, I will present two case studies where Bayesian predictive inference has been applied to model tropical diseases. The first study uses demographic and environmental data to construct a map of the prevalence of lymphatic filariasis in sub-Saharan Africa prior to the implementation of large-scale control interventions. The second study analyzes leptospirosis in a Brazilian urban slum. This community is generally characterized by low social status and poor sanitation infrastructure, but it is also highly inhomogeneous with wide spatial variability in social and environmental characteristics that are associated with leptospirosis risk. In both studies, the output of the Bayesian risk models is key to inform better surveillance strategies and targeted interventions for disease elimination.
 
 ![image]({{ site.urlimg }}paula_moraga.jpg)
 
