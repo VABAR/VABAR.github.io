@@ -15,10 +15,10 @@ header:
 #    image: banner_bioss.png
 
 widget-1:
-   title: "València International Bayesian Analysis Summer School"
+   title: "VIBASS4 postponed until 2021"
    url: '/events/vibass4/'
-   text: 'Announcing the 4th edition of VIBASS summer school on Bayesian Statistics to be held from 13 to 17 July 2020 in València (Spain). VIBASS offers an opportunity to be introduced into the Bayesian reasoning without previous knowledge in the subject.
-   '
+   #text: 'Announcing the 4th edition of VIBASS summer school on Bayesian Statistics to be held from 13 to 17 July 2020 in València (Spain).   
+   text: 'Due to the SARS-CoV-2 international crisis, VIBASS4 has been postponed until 2021.'
    image: widget_vibass4.jpg
 
 #widget-2:
