@@ -94,12 +94,6 @@
   url: https://es.linkedin.com/in/franciscopalmi
   img: fpalmi.jpg
 
-- name: Hèctor Perpiñán
-  affiliation: sangva
-  position: Biostatistician
-  url: http://www.san.gva.es/
-  img: hector.jpg
-
 - name: Blanca Sarzo
   affiliation: uveg
   position: PhD student
@@ -120,3 +114,8 @@
 #  url: http://www.uv.es
 #  img: francisco.jpg
 
+#- name: Hèctor Perpiñán
+#  affiliation: sangva
+#  position: Biostatistician
+#  url: http://www.san.gva.es/
+#  img: hector.jpg

@@ -15,14 +15,6 @@
   logo: cirad.png
   logo_has_title: false
 
-- name: sangva
-  title: Generalitat Valenciana - Conselleria de Sanitat Universal i Salut Pública.
-  url: http://www.san.gva.es/
-  city: Valencia
-  country: Spain
-  logo: sangva.png
-  logo_has_title: true
-
 - name: duke
   title: Duke University
   url: http://www.duke.edu/
@@ -134,5 +126,13 @@
 #  city: Edinburgh
 #  country: UK
 #  logo: tuoe.png
+#  logo_has_title: true
+
+#- name: sangva
+#  title: Generalitat Valenciana - Conselleria de Sanitat Universal i Salut Pública.
+#  url: http://www.san.gva.es/
+#  city: Valencia
+#  country: Spain
+#  logo: sangva.png
 #  logo_has_title: true
 
