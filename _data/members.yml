@@ -34,6 +34,12 @@
   url: http://portal.uc3m.es/portal/page/portal/dpto_estadistica/personal/Stefano_Cabras
   img: stefano.jpg
 
+- name: Gabriel Calvo
+  affiliation: uveg
+  position: PhD student
+  url: http://www.uv.es/
+  img: gcalvo.jpg
+
 - name: María-Eugenia Castellanos
   affiliation: urjc
   position: Associate Professor
@@ -76,6 +82,12 @@
   url: http://www.uv.es/antoniol
   img: antonio.jpg
 
+- name: Miguel Angel Martínez-Beneito
+  affiliation: uveg
+  position: Assistant Professor
+  url: http://www.uv.es
+  img: mamartinez.jpg
+
 - name: Joaquín Martínez-Minaya
   affiliation: uveg
   position: PhD student
@@ -93,6 +105,12 @@
   position: PhD
   url: https://es.linkedin.com/in/franciscopalmi
   img: fpalmi.jpg
+
+- name: Alicia Quirós
+  affiliation: unileon
+  position: Assistant Professor
+  url: https://www.researchgate.net/profile/Alicia_Quiros
+  img: aquiros.jpg
 
 - name: Blanca Sarzo
   affiliation: uveg

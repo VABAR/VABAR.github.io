@@ -63,6 +63,14 @@
   logo: uclm.png
   logo_has_title: true
 
+- name: unileon
+  title: Universidad de León
+  url: https://www.unileon.es/
+  city: León
+  country: Spain
+  logo: unileon.png
+  logo_has_title: true
+
 - name: umh
   title: Universidad Miguel Hernández
   url: http://www.umh.es/
