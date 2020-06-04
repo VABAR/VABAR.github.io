@@ -42,13 +42,13 @@
 
 - name: María-Eugenia Castellanos
   affiliation: urjc
-  position: Associate Professor
+  position: Professor
   url: http://mecastellanos.wordpress.com
   img: meugenia.jpg
 
 - name: David Conesa
   affiliation: uveg
-  position: Associate Professor
+  position: Professor
   url: http://www.geeitema.org/conesa/
   img: david.jpg
 
@@ -89,10 +89,10 @@
   img: mamartinez.jpg
 
 - name: Joaquín Martínez-Minaya
-  affiliation: uveg
-  position: PhD student
-  url: http://www.uv.es
-  img: joaquin.jpg
+  affiliation: bcam
+  position: Applied Statistics Postdoctoral Researcher
+  url: http://www.bcamath.org/
+  img: jmartinez.jpg
 
 - name: Facundo Muñoz
   affiliation: cirad

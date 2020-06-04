@@ -7,6 +7,14 @@
 # and by alphabetic order.
     
 
+- name: bcam
+  title: Basque Center fpr Applied Mathematics
+  url: http://www.bcamath.org/
+  city: Bilbao
+  country: Spain
+  logo: bcam.jpg
+  logo_has_title: true
+
 - name: cirad
   title: Centre de Coopération Internationale en Recherche Agronomique pour le Développement
   url: https://www.cirad.fr/
