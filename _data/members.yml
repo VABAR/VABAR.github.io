@@ -10,12 +10,6 @@
   url: https://sites.google.com/site/daniloalvares/
   img: danilo.jpg
 
-- name: Rubén Amorós
-  affiliation: tuoe
-  position: Postdoctoral Research Associate
-  url: https://www.ed.ac.uk/
-  img: ruben.jpg
-
 - name: Carmen Armero
   affiliation: uveg
   position: Professor
@@ -117,3 +111,12 @@
   position: PhD student
   url: http://www.uv.es
   img: blanca.jpg
+
+
+
+# - name: Rubén Amorós
+#   affiliation: tuoe
+#   position: Postdoctoral Research Associate
+#   url: https://www.ed.ac.uk/
+#   img: ruben.jpg
+

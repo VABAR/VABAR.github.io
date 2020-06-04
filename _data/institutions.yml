@@ -55,14 +55,6 @@
   logo: pucc.png
   logo_has_title: true
   
-- name: tuoe
-  title: The University of Edinburgh
-  url: https://www.ed.ac.uk/
-  city: Edinburgh
-  country: UK
-  logo: tuoe.png
-  logo_has_title: true
-
 - name: uc3m
   title: Universidad Carlos III
   url: http://www.uc3m.es/
@@ -134,5 +126,13 @@
 #  city: Lleida
 #  country: Spain
 #  logo:  irbl.png
+#  logo_has_title: true
+
+#- name: tuoe
+#  title: The University of Edinburgh
+#  url: https://www.ed.ac.uk/
+#  city: Edinburgh
+#  country: UK
+#  logo: tuoe.png
 #  logo_has_title: true
 
