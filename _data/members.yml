@@ -100,12 +100,6 @@
   url: http://www.san.gva.es/
   img: hector.jpg
 
-- name: Francisco Santonja
-  affiliation: uveg
-  position: Associate Professor
-  url: http://www.uv.es
-  img: francisco.jpg
-
 - name: Blanca Sarzo
   affiliation: uveg
   position: PhD student
@@ -114,9 +108,15 @@
 
 
 
-# - name: Rubén Amorós
-#   affiliation: tuoe
-#   position: Postdoctoral Research Associate
-#   url: https://www.ed.ac.uk/
-#   img: ruben.jpg
+#- name: Rubén Amorós
+#  affiliation: tuoe
+#  position: Postdoctoral Research Associate
+#  url: https://www.ed.ac.uk/
+#  img: ruben.jpg
+
+#- name: Francisco Santonja
+#  affiliation: uveg
+#  position: Associate Professor
+#  url: http://www.uv.es
+#  img: francisco.jpg
 
