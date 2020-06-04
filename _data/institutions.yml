@@ -23,6 +23,14 @@
   logo: duke.png
   logo_has_title: false
 
+- name: fisabio
+  title: Fundación para el Fomento de la Investigación Sanitaria y Biomédica
+  url: http://fisabio.san.gva.es/
+  city: Valencia
+  country: Spain
+  logo: fisabio.png
+  logo_has_title: true
+
 - name: harvard
   title: Harvard University
   url: https://www.harvard.edu/
@@ -111,14 +119,6 @@
 #   country: France
 #   logo: inra.png
 #   logo_has_title: false
-
-# - name: fisabio
-#   title: Fundación para el Fomento de la Investigación Sanitaria y Biomédica
-#   url: http://fisabio.san.gva.es/
-#   city: Valencia
-#   country: Spain
-#   logo: fisabio.png
-#   logo_has_title: true
 
 #- name: irbl
 #  title: Institut de Recerca Biomèdica de Lleida
