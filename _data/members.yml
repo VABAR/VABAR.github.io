@@ -4,19 +4,19 @@
 ## images are stored in /images/members 
     
 
+- name: Carmen Armero
+  affiliation: uveg
+  position: Principal Investigator
+  email: carmen.armero@uv.es
+  url: http://www.uv.es/armero/
+  img: carmero.jpg
+
 - name: Danilo Alvares
   affiliation: pucc
   position: Assistant Professor
   email: dalvares@mat.uc.cl
   url: https://sites.google.com/site/daniloalvares/
   img: dalvares.jpeg
-
-- name: Carmen Armero
-  affiliation: uveg
-  position: Professor
-  email: carmen.armero@uv.es
-  url: http://www.uv.es/armero/
-  img: carmero.jpg
 
 - name: Xavi Barber
   affiliation: umh
@@ -38,13 +38,6 @@
   email: s.cabras@unica.it
   url: http://portal.uc3m.es/portal/page/portal/dpto_estadistica/personal/Stefano_Cabras
   img: stefano.jpg
-
-- name: Gabriel Calvo
-  affiliation: uveg
-  position: PhD student
-  email: gabriel.calvo@uv.es
-  url: http://www.uv.es/
-  img: gcalvo.jpg
 
 - name: María-Eugenia Castellanos
   affiliation: urjc
@@ -136,6 +129,14 @@
   email: blanca.sarzo@uv.es
   url: http://fisabio.san.gva.es/
   img: bsarzo.jpg
+
+- name: Gabriel Calvo
+  affiliation: uveg
+  position: PhD student
+  email: gabriel.calvo@uv.es
+  url: http://www.uv.es/
+  img: gcalvo.jpg
+
 
 
 
