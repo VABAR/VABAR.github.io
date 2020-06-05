@@ -7,114 +7,133 @@
 - name: Danilo Alvares
   affiliation: pucc
   position: Assistant Professor
+  email: dalvares@mat.uc.cl
   url: https://sites.google.com/site/daniloalvares/
   img: dalvares.jpeg
 
 - name: Carmen Armero
   affiliation: uveg
   position: Professor
+  email: carmen.armero@uv.es
   url: http://www.uv.es/armero/
   img: carmero.jpg
 
 - name: Xavi Barber
   affiliation: umh
   position: Associate Professor
+  email: xbarber@umh.es
   url: http://xavierbarber.edu.umh.es/
   img: xavi.jpg
 
 - name: Jim Berger
   affiliation: duke
   position: Professor
+  email: berger@stat.duke.edu
   url: https://stat.duke.edu/~berger/
   img: jim.jpg
 
 - name: Stefano Cabras
   affiliation: uc3m
   position: Associate Professor
+  email: s.cabras@unica.it
   url: http://portal.uc3m.es/portal/page/portal/dpto_estadistica/personal/Stefano_Cabras
   img: stefano.jpg
 
 - name: Gabriel Calvo
   affiliation: uveg
   position: PhD student
+  email: gabriel.calvo@uv.es
   url: http://www.uv.es/
   img: gcalvo.jpg
 
 - name: María-Eugenia Castellanos
   affiliation: urjc
   position: Professor
+  email: maria.castellanos@urjc.es
   url: http://mecastellanos.wordpress.com
   img: meugenia.jpg
 
 - name: David Conesa
   affiliation: uveg
   position: Professor
+  email: david.v.conesa@uv.es
   url: http://www.geeitema.org/conesa/
   img: david.jpg
 
 - name: Anabel Forte
   affiliation: uveg
   position: Associate Professor
+  email: anabel.forte@uv.es
   url: http://www.anabelforte.com
   img: aforte.jpeg
 
 - name: Gonzalo García-Donato
   affiliation: uclm
   position: Associate Professor
+  email: gonzalo.garciadonato@uclm.es
   url: http://www.uclm.es/profesorado/garcia-donato/
   img: gonzalo.jpg
 
 - name: Virgilio Gómez-Rubio
   affiliation: uclm
   position: Associate Professor
+  email: virgilio.gomez@uclm.es
   url: https://becarioprecario.github.io/
   img: virgilio.jpg
 
 - name: Elena Lázaro
   affiliation: ivia
   position: Biostatistician
+  email: ele@gva.es
   url: http://www.ivia.gva.es/
   img: elena.png
 
 - name: Antonio López
   affiliation: uveg
   position: Professor
+  email: antonio.lopez@uv.es
   url: http://www.uv.es/antoniol
   img: alopez.jpg
 
 - name: Miguel Angel Martínez-Beneito
   affiliation: uveg
   position: Assistant Professor
+  email: miguel.a.martinez@uv.es
   url: http://www.uv.es
   img: mamartinez.jpg
 
 - name: Joaquín Martínez-Minaya
   affiliation: bcam
   position: Applied Statistics Postdoctoral Researcher
+  email: jomartinez@bcamath.org
   url: http://www.bcamath.org/
   img: jmartinez.jpg
 
 - name: Facundo Muñoz
   affiliation: cirad
   position: Biostatistician
+  email: facundo.munoz@cirad.fr
   url: http://www.uv.es/famarmu
   img: facu.jpg
 
 - name: Francisco Palmí
   affiliation: uclm
   position: PhD
+  email: francisco.palmi@uclm.es
   url: https://es.linkedin.com/in/franciscopalmi
   img: fpalmi.jpg
 
 - name: Alicia Quirós Carretero
   affiliation: unileon
   position: Associate Professor
+  email: alicia.quiros@unileon.es
   url: https://www.researchgate.net/profile/Alicia_Quiros
   img: aquiros.jpg
 
 - name: Blanca Sarzo
   affiliation: fisabio
   position: Researcher
+  email: blanca.sarzo@uv.es
   url: http://fisabio.san.gva.es/
   img: bsarzo.jpg
 
