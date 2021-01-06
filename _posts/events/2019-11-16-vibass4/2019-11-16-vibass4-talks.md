@@ -22,7 +22,7 @@ Bayesian risk models provide a flexible and robust approach for spatial modeling
 ![image]({{ site.urlimg }}paula_moraga.jpg)
 
 [__Paula Moraga__](https://paula-moraga.github.io/)
-Department of Mathematical Sciences, University of Bath, UK.
+King Abdullah University of Science and Technology ([KAUST](https://kaust.edu.sa/)).
 [http://paula-moraga.github.io/](http://paula-moraga.github.io/)
 [<img alt="Tweet" height="20" width="20" src="{{ site.url }}/images/social_flat_rounded_rects_svg/Twitter.svg"> @Paula_Moraga_](https://twitter.com/@Paula_Moraga_)
 
