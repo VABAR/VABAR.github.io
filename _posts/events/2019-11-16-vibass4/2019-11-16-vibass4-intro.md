@@ -21,51 +21,75 @@ contents of both days.
 
 ## Monday
 
-### Session I: __Introduction to Bayesian statistics__ (10:00 -- 11:30)
+### Session I: __All you need is... probability__
 
-All you need is... probability. Frequentist and Bayesian probability. Bayes’ theorem for random events and variables,
+- Introductory session: 09:30 -- 10:00
+
+Frequentist and Bayesian probability. Bayes’ theorem for random events and variables,
 parameters, hypothesis, etc. Sequential updating. Predictive probabilities.
-__Proportions__: binomial distribution and likelihood function. __Prior distribution__: the beta distribution. __Summarising__ posterior inferences. __Estimation and prediction__. Simulated samples: comparison of independent populations.
 
-### Session I: Practice (12:00 -- 12:30)
+### Session II: __Binary data__
 
-All you need is... lacasitos.
+- Theory: 10:10 -- 10:40
+- Practice: 10:50 -- 11:50
+
+__Proportions__: binomial distribution and likelihood function.
+__Prior distribution__: the beta distribution.
+__Summarising__ posterior inferences.
+
+### Session III. __Count data__
+
+- Theory: 12.10 -- 12.30
+- Practice: 12.45 -- 13.30
+
+__Count data__: Poisson distribution. Poisson model parameterized in terms of rate and exposure. Gamma distribution as __conjugate prior distributions__. Negative binomial __predictive distributions__. 
 
 
-### Session II: __Basic statistical models__ (15:00 -- 16:30)
-
-__Count data__: Poisson distribution. Poisson model parameterized in terms
-of rate and exposure. Gamma distribution as __conjugate prior
-distributions__. Negative binomial __predictive distributions__. 
+### Session IV. Normal data.
+- Theory: 15.00 -- 15.30
+- Practice: 15.40 -- 16.30
 
 __Normal data__: Estimation of a normal mean with known variance. __Prediction__ of a future observation. Normal data with unknown mean and variance. __Nuisance
 parameters__. __Joint prior distributions__. Joint, conditional and marginal
 __posterior distributions__. 
 
 
-### Session II: Practice (17:00 -- 18:30)
+### Session V. Inference and prediction with simulated samples.
+- Theory: 16.45 -- 17.15
+- Practice: 17.30 -- 18.30
 
-How many u’s in a _Game of Thrones_ book page and how tall are you?
-
+__Estimation and prediction__. Simulated samples: comparison of independent populations.
 
 ## Tuesday
 
-### Session III: __Bayesian inference__ (10:00 -- 11:30)
+### Session I: All you need is... modelling
+
+- Theory: 09.30 -- 10.00
+- Practice: 10.10 -- 10.50
 
 The big problem in the Bayesian framework: resolution of integrals that appear when applying the learning process.
+
+
+### Session II. Numerical approaches to the posterior distribution.
+
+- Theory: 11.00 -- 11.30
+- Practice: 11.40 -- 12.30
+
 __Numerical approaches__: Gaussian approximations, Laplace approximations, Monte Carlo integration and importance sampling. __Markov chain Monte Carlo__: Gibbs sampling and Metropolis Hastings. Convergence, inspection of chains,
-etc. __Software__ for performing MCMC.
+etc. 
 
+### Session III. Bayes software
 
-### Session III: Practice (12:00 -- 13:30)
-
-Programming your own Metropolis-Hasting algorithm.
-
-
-### Session IV: __Bayesian hierarchical models__ (15:00 -- 16:30)
-
-Incorporating _random_ effects: __Bayesian hierarchical models__ (BHMs), the coolest tool for modelling highly structured models. Hierarchies, hyperparameters, and hyperpriors. (Generalized) linear mixed models as basic examples of BHMs.
-
-### Session IV: Practice (17:00 -- 18:30)
+- Theory: 13.00 -- 13.30
+- Practice: 15.00 -- 15.40
 
 __Software__ for inference in Bayesian hierarchical models.
+
+
+### Session IV. Bayesian hierarchical models
+
+- Theory: 15.50 -- 16.30
+- Practice 1: 16.45 -- 17.35
+- Practice 2: 17.55 -- 18.30
+
+Incorporating _random_ effects: __Bayesian hierarchical models__ (BHMs), the coolest tool for modelling highly structured models. Hierarchies, hyperparameters, and hyperpriors. (Generalized) linear mixed models as basic examples of BHMs.
