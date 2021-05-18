@@ -17,8 +17,10 @@ header:
 widget-1:
    title: "València International Bayesian Analysis Summer School"
    url: '/events/vibass4/'
-   text: 'Announcing the 4th edition of VIBASS summer school on Bayesian Statistics to be held from 12 to 16 July 2021 in València (Spain).'
+   text: 'Registrations are fully booked. Please register for the [on-site](https://forms.gle/AYGPzuW4gkrv68L48) or the [online](https://forms.gle/YmnGjMAnuVrT7JC89) waiting lists'
    image: widget_vibass4.png
+#   text: 'Announcing the 4th edition of VIBASS summer school on Bayesian Statistics to be held from 12 to 16 July 2021 in València (Spain).'
+#   image: widget_vibass4.png
 
 #widget-2:
 #   title: "València International Bayesian Analysis Summer School"
