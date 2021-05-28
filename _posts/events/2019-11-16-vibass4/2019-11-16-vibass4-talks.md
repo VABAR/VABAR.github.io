@@ -36,5 +36,5 @@ The Bayesian paradigm provides a flexible way of thinking about data analysis pr
 
 ![image]({{ site.urlimg }}david_rosell.jpg)
 
-[__David Rosell__](https://sites.google.com/site/rosselldavid/)
+[__David Rossell__](https://sites.google.com/site/rosselldavid/)
 Deptartment of Economics & Business, Universitat Pompeu Fabra, Spain.
