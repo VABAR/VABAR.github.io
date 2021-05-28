@@ -40,7 +40,7 @@ widget-2:
 widget-3:
    title: "Invited talks"
    url: '/events/vibass4-talks/'
-   text: 'Paula Moraga & David Rosell<br />
+   text: 'Paula Moraga & David Rossell<br />
    <i>· Bayesian risk models for tropical disease mapping</i><br />
    <i>· Illustrating the flexibility of Bayesian models: from cancer medicine to political tweets</i>'
    image: paula_david.jpg
