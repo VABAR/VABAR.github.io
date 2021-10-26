@@ -47,14 +47,6 @@
   logo: harvard.png
   logo_has_title: true
 
-- name: ieo
-  title: Instituto Español de Oceanografía
-  url: http://www.ieo.es/en/
-  city: Vigo
-  country: Spain
-  logo: ieo.png
-  logo_has_title: true
-
 - name: ivia
   title: Instituto Valenciano de Investigaciones Agrarias
   url: http://www.ivia.gva.es/
