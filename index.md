@@ -16,11 +16,11 @@ header:
 
 widget-1:
    title: "València International Bayesian Analysis Summer School"
-   url: '/events/vibass4/'
-   text: 'Registrations are fully booked. Please register for the <a href="https://forms.gle/YmnGjMAnuVrT7JC89">on-site</a> or the <a href="https://forms.gle/AYGPzuW4gkrv68L48">online</a> waiting lists'
-   image: widget_vibass4.png
-#   text: 'Announcing the 4th edition of VIBASS summer school on Bayesian Statistics to be held from 12 to 16 July 2021 in València (Spain).'
-#   image: widget_vibass4.png
+   url: '/events/vibass5/'
+#   text: 'Registrations are fully booked. Please register for the <a href="https://forms.gle/YmnGjMAnuVrT7JC89">on-site</a> or the <a href="https://forms.gle/AYGPzuW4gkrv68L48">online</a> waiting lists'
+#   image: widget_vibass5.png
+   text: 'Announcing the 5th edition of VIBASS summer school on Bayesian Statistics to be held from 18 to 22 July 2022 in València (Spain).'
+   image: widget_vibass5.png
 
 #widget-2:
 #   title: "València International Bayesian Analysis Summer School"
@@ -33,17 +33,17 @@ widget-1:
 
 
 widget-2:
-   title: "J. van Niekerk & H. Rue"
-   url: '/events/vibass4-course/'
-   text: 'Invited course: <br> <i>«Bayesian computation with <a href="http://www.r-inla.org/">R-INLA</a>»</i>'
-   image: janet_havard.jpg
+   title: "M Blangiardo & M Cameletti"
+   url: '/events/vibass5-course/'
+   text: 'Invited course: <br> <i>«spatial and spatio-temporal models with the <a href="http://www.r-inla.org/">R-INLA package</a>»</i>'
+   image: marta_michela.jpg
 widget-3:
    title: "Invited talks"
-   url: '/events/vibass4-talks/'
-   text: 'Paula Moraga & David Rossell<br />
-   <i>· Bayesian risk models for tropical disease mapping</i><br />
-   <i>· Illustrating the flexibility of Bayesian models: from cancer medicine to political tweets</i>'
-   image: paula_david.jpg
+   url: '/events/vibass5-talks/'
+   text: 'M Eugenia Castellanos & Gianluca Baio<br />
+   <i>· TBA</i><br />
+   <i>· TBA</i>'
+   image: maria-eugenia_gianluca.jpg
 # widget-2:
 #    title: "Why use this theme?"
 #    url: 'http://phlow.github.io/feeling-responsive/info/'
