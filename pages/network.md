@@ -31,7 +31,7 @@ VaBaR members participate in the following forums
 
 - [SEIO](http://seio.es/) - Spanish Society of Statistics and Operations Research
 
-- [SEB](http://www.biometricsociety.net/) - Sociedad Española de Biometría
+- [SEB](http://www.biometricsociety.net/) - Sociedad Española de Bioestadística
 
 - [ISBA](http://bayesian.org/) - International Society for Bayesian Analysis
 
