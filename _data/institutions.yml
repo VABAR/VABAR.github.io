@@ -7,14 +7,6 @@
 # and by alphabetic order.
     
 
-- name: bcam
-  title: Basque Center fpr Applied Mathematics
-  url: http://www.bcamath.org/
-  city: Bilbao
-  country: Spain
-  logo: bcam.jpg
-  logo_has_title: true
-
 - name: cirad
   title: Centre de Coopération Internationale en Recherche Agronomique pour le Développement
   url: https://www.cirad.fr/
@@ -111,6 +103,21 @@
   logo: uveg.jpg
   logo_has_title: true
 
+- name: upv
+  title: Universitat Politècnica de València
+  url: http://www.upv.es
+  city: Valencia
+  country: Spain
+  logo: upv.jpg
+  logo_has_title: true
+
+#- name: bcam
+#  title: Basque Center fpr Applied Mathematics
+#  url: http://www.bcamath.org/
+#  city: Bilbao
+#  country: Spain
+#  logo: bcam.jpg
+#  logo_has_title: true
   
 #- name: hucsc
 #  title: Hospital Universitario Clínico San Carlos
