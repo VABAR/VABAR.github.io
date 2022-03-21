@@ -17,10 +17,10 @@ header:
 widget-1:
    title: "València International Bayesian Analysis Summer School"
    url: '/events/vibass5/'
-#   text: 'Registrations are fully booked. Please register for the <a href="https://forms.gle/YmnGjMAnuVrT7JC89">on-site</a> or the <a href="https://forms.gle/AYGPzuW4gkrv68L48">online</a> waiting lists'
+   text: 'Registrations are fully booked. Please register on the <a href="https://forms.gle/AYGPzuW4gkrv68L48">waiting list</a>.'
+   image: widget_vibass5_closed.png
+#   text: 'Announcing the 5th edition of VIBASS summer school on Bayesian Statistics to be held from 18 to 22 July 2022 in València (Spain).'
 #   image: widget_vibass5.png
-   text: 'Announcing the 5th edition of VIBASS summer school on Bayesian Statistics to be held from 18 to 22 July 2022 in València (Spain).'
-   image: widget_vibass5.png
 
 #widget-2:
 #   title: "València International Bayesian Analysis Summer School"
