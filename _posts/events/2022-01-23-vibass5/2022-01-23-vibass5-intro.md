@@ -51,21 +51,22 @@ __posterior distributions__.
 
 ## Tuesday
 
-### Session I: All you need is... modelling
+### Session I: Numerical approaches.
 
 The big problem in the Bayesian framework: resolution of integrals that appear when applying the learning process.
+Gaussian approximations, Laplace approximations, Monte Carlo integration and importance sampling, Markov chain Monte Carlo.
 
 
-### Session II. Numerical approaches to the posterior distribution.
+### Session II. Bayesian linear models.
 
-__Numerical approaches__: Gaussian approximations, Laplace approximations, Monte Carlo integration and importance sampling. __Markov chain Monte Carlo__: Gibbs sampling and Metropolis Hastings. Convergence, inspection of chains,
-etc. 
+Apply basic Importance Sampling and MCMC methods via available software for fitting regression models.
 
-### Session III. Software for Bayesian Analysis
+### Session III. Bayesian generalised linear models.
 
-__Software__ for inference in Bayesian hierarchical models.
+Extending regression models to non-gaussian responses.
 
-
-### Session IV. Bayesian hierarchical models
+### Session IV. Bayesian hierarchical models.
 
 Incorporating _random_ effects: __Bayesian hierarchical models__ (BHMs), the coolest tool for modelling highly structured models. Hierarchies, hyperparameters, and hyperpriors. (Generalized) linear mixed models as basic examples of BHMs.
+__Software__ for inference in Bayesian hierarchical models.
+
