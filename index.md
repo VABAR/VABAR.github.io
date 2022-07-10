@@ -41,8 +41,8 @@ widget-3:
    title: "Invited talks"
    url: '/events/vibass5-talks/'
    text: 'M Eugenia Castellanos & Gianluca Baio<br />
-   <i>· TBA</i><br />
-   <i>· TBA</i>'
+   <i>· p-values, posterior probabilities, and Bayes Factors. Who is who?</i><br />
+   <i>· Bayesian approaches for addressing missing data in Cost-Effectiveness Analysis (alongside Randomised Controlled Trials)</i>'
    image: maria-eugenia_gianluca.jpg
 # widget-2:
 #    title: "Why use this theme?"
