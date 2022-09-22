@@ -1,15 +1,9 @@
 ## Member details
 ## (sorted by alphabetic order of surname)
+## (except for C Armero who goes first)
 ##
 ## images are stored in /images/members 
     
-
-- name: Rubén Amorós
-  affiliation: uveg
-  position: Assistant Professor
-  email: ruben.amoros@uv.es
-  url: https://es.linkedin.com/in/rub%C3%A9n-amor%C3%B3s-salvador-31219071
-  img: ruben.jpg
 
 - name: Carmen Armero
   affiliation: uveg
@@ -24,6 +18,13 @@
   email: dalvares@mat.uc.cl
   url: https://sites.google.com/site/daniloalvares/
   img: dalvares.jpeg
+
+- name: Rubén Amorós
+  affiliation: uveg
+  position: Assistant Professor
+  email: ruben.amoros@uv.es
+  url: https://es.linkedin.com/in/rub%C3%A9n-amor%C3%B3s-salvador-31219071
+  img: ruben.jpg
 
 - name: Xavi Barber
   affiliation: umh
