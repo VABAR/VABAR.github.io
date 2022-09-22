@@ -4,6 +4,12 @@
 ## images are stored in /images/members 
     
 
+- name: Rubén Amorós
+  affiliation: uveg
+  position: Assistant Professor
+  url: https://es.linkedin.com/in/rub%C3%A9n-amor%C3%B3s-salvador-31219071
+  img: ruben.jpg
+
 - name: Carmen Armero
   affiliation: uveg
   position: Principal Investigator
@@ -139,12 +145,6 @@
 
 
 
-
-#- name: Rubén Amorós
-#  affiliation: tuoe
-#  position: Postdoctoral Research Associate
-#  url: https://www.ed.ac.uk/
-#  img: ruben.jpg
 
 #- name: Francisco Santonja
 #  affiliation: uveg
