@@ -40,7 +40,7 @@ widget-2:
 widget-3:
    title: "Invited talks"
    url: '/events/vibass6-talks/'
-   text: 'Concepción Ausín & Duncal Lee<br />
+   text: 'Concepción Ausín & Duncan Lee<br />
    <i>· TBA</i><br />
    <i>· TBA</i>'
    image: concepcion_duncan.jpg
