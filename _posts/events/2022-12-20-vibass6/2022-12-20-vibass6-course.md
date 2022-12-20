@@ -19,7 +19,7 @@ categories: events
 
 This course (12 hours) is provided by [__Dr. Olivier Gimenez__](https://oliviergimenez.github.io/) (Centre d'Écologie Fonctionnelle & Évolutive, Montpellier, France). He is the author of the open on-line book [_Bayesian Analysis of Capture-Recapture Data with Hidden Markov Models: Theory and Case Studies in R_](https://oliviergimenez.github.io/banana-book/).
 
-![image]({{ site.urlimg }}olivier_gimenez.jpg)
+![image]({{ site.urlimg }}olivier-gimenez.jpg)
 
 - Target audience
 

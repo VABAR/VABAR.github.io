@@ -24,7 +24,7 @@ categories: events
 
 __Prof. Concepción Ausín__
 Universidad Carlos III de Madrid, Spain
-https://sites.google.com/view/concepcion-ausin
+[https://sites.google.com/view/concepcion-ausin](https://sites.google.com/view/concepcion-ausin)
 
 
 <hr>
@@ -38,4 +38,4 @@ https://sites.google.com/view/concepcion-ausin
 
 __Prof. Duncan Lee__
 University of Glasgow, Scotland
-https://www.gla.ac.uk/schools/mathematicsstatistics/staff/duncanlee/
+[https://www.gla.ac.uk/schools/mathematicsstatistics/staff/duncanlee/](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/duncanlee/)
