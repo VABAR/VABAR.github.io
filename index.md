@@ -16,11 +16,11 @@ header:
 
 widget-1:
    title: "València International Bayesian Analysis Summer School"
-   url: '/events/vibass5/'
-   text: 'Registrations are fully booked. Please register on the <a href="https://congresos.adeituv.es/VIBASS5/">waiting list</a>.'
-   image: widget_vibass5_closed.png
-#   text: 'Announcing the 5th edition of VIBASS summer school on Bayesian Statistics to be held from 18 to 22 July 2022 in València (Spain).'
-#   image: widget_vibass5.png
+   url: '/events/vibass6/'
+#   text: 'Registrations are fully booked. Please register on the <a href="https://congresos.adeituv.es/VIBASS6/">waiting list</a>.'
+#   image: widget_vibass6_closed.png
+   text: 'Announcing the 6th edition of VIBASS summer school on Bayesian Statistics to be held from 10 to 14 July 2023 in València (Spain).'
+   image: widget_vibass6.png
 
 #widget-2:
 #   title: "València International Bayesian Analysis Summer School"
@@ -33,17 +33,17 @@ widget-1:
 
 
 widget-2:
-   title: "M Blangiardo & M Cameletti"
-   url: '/events/vibass5-course/'
-   text: 'Invited course: <br> <i>«spatial and spatio-temporal models with the <a href="http://www.r-inla.org/">R-INLA package</a>»</i>'
-   image: marta_michela.jpg
+   title: "Olivier Gimenez"
+   url: '/events/vibass6-course/'
+   text: 'Invited course: <br> <i>«Bayesian capture-recapture inference with hidden Markov models»</i>'
+   image: olivier-gimenez.jpg
 widget-3:
    title: "Invited talks"
-   url: '/events/vibass5-talks/'
-   text: 'M Eugenia Castellanos & Gianluca Baio<br />
-   <i>· p-values, posterior probabilities, and Bayes Factors. Who is who?</i><br />
-   <i>· Bayesian approaches for addressing missing data in Cost-Effectiveness Analysis (alongside Randomised Controlled Trials)</i>'
-   image: maria-eugenia_gianluca.jpg
+   url: '/events/vibass6-talks/'
+   text: 'Concepción Ausín & Duncal Lee<br />
+   <i>· TBA</i><br />
+   <i>· TBA</i>'
+   image: concepcion_duncan.jpg
 # widget-2:
 #    title: "Why use this theme?"
 #    url: 'http://phlow.github.io/feeling-responsive/info/'
@@ -63,4 +63,3 @@ widget-3:
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
-
