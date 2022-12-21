@@ -31,11 +31,15 @@ This course (12 hours) is provided by [__Dr. Olivier Gimenez__](https://olivierg
 
     In parallel, Bayesian statistics is relatively well established in ecology and related disciplines, because it resonates with scientific reasoning and allows accommodating uncertainty smoothly. The popularity of Bayesian statistics also comes from the availability of free pieces of software that allow practitioners to code their own analyses.
 
-    In this half-a-day workshop, we offer a Bayesian treatment of HMMs applied to capture-recapture data. Through a combination of lectures, real case studies and live demonstrations, you will get acquainted with multi-site, multi-state and multi-event capture-recapture models.
+    In this two-day workshop, we offer a Bayesian treatment of HMMs applied to capture-recapture data. Through a combination of lectures, real case studies and live demonstrations, you will get acquainted with multi-site, multi-state and multi-event capture-recapture models.
 
     We will use the R [`Nimble`](https://r-nimble.org/download) package that is seen by many as the future of ecological data modelling because it i) helps overcome computational limitations that ecologists are faced with when dealing with complex models and/or big data, and iii) provides samplers that can deal with discrete latent states that are typical of capture-recapture data analysis.
 
     It is recommended that people attending are familiar with R ([https://www.r-project.org/](https://www.r-project.org/)) and with the basic of the Bayesian approach.
     It would be beneficial if attendees could bring their laptop with the latest version of R and [`Nimble`](https://r-nimble.org/download) installed.  
 
+- Training materials
+
+	Materials for the course are freely available on line at:
+	[https://oliviergimenez.github.io/bayesian-cr-workshop/](https://oliviergimenez.github.io/bayesian-cr-workshop/)
     
