@@ -42,7 +42,7 @@ widget-3:
    url: '/events/vibass6-talks/'
    text: 'Concepción Ausín & Duncan Lee<br />
    <i>· TBA</i><br />
-   <i>· TBA</i>'
+   <i>· Modelling spatio-temporal variation in disease risk: Its not all about geographical adjacency</i>'
    image: concepcion_duncan.jpg
 # widget-2:
 #    title: "Why use this theme?"
