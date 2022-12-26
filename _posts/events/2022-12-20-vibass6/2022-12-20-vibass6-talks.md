@@ -15,9 +15,22 @@ categories: events
 ---
 
 
-## TBD
+## Extreme joint dependencies using nonparametric copulas
 
-...
+This talk introduces copulas as a very useful statistical tool to model complex joint dependencies.
+Copulas allow the researcher to define separately the individual marginal densities from their dependence structure.
+This provides a much greater degree of flexibility in specifying different multivariate distributions, avoiding the restrictive assumptions of the standard multivariate Gaussian or Student-t distributions.
+We will review the main parametric copula families including the Archimedean family and the Elliptical copulas.
+Some of them are especially useful in capturing the dependence in the tails of the distribution.
+This can be particularly higher in many situations such as financial crises, where tail dependencies are usually more relevant than overall correlations.
+However, parametric copulas can be too restrictive in practice and they may have problems capturing both lower and upper tail dependencies without losing coverage of the center area of the joint distribution.
+Alternatively, we will review various nonparametric copulas in the literature like the empirical, Bernstein and other copulas based on generalized partitions of unity.
+From the Bayesian point of view, only a few nonparametric copula models have been proposed and none of them are able to capture tail dependencies.
+We will propose a new Bayesian nonparametric copula which can be viewed as a multivariate histogram smoothing with non-equally spaced infinite number of bins.
+Thus, we impose a prior on the breakpoints and on the volume of the bins.
+We will show how to express the model as an infinite mixture of beta distributions using the so-called stick-breaking representation.
+A Gibbs sampling approach can be implemented to sample from the posterior and the predictive.
+We illustrate the procedure using simulated and real data based on multivariate financial time series.
 
 
 ![image]({{ site.urlimg }}concepcion_ausin.jpg)

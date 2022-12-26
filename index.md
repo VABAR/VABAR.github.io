@@ -41,7 +41,7 @@ widget-3:
    title: "Invited talks"
    url: '/events/vibass6-talks/'
    text: 'Concepción Ausín & Duncan Lee<br />
-   <i>· TBA</i><br />
+   <i>· Extreme joint dependencies using nonparametric copulas</i><br />
    <i>· Modelling spatio-temporal variation in disease risk: Its not all about geographical adjacency</i>'
    image: concepcion_duncan.jpg
 # widget-2:
