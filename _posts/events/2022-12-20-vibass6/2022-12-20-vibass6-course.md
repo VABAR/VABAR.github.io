@@ -7,7 +7,8 @@ meta_teaser: "VIBASS6 Invited Course"
 header:
   title: VIBASS 6
   image_fullwidth: header_vibass18.png
-  caption: Registration and call for papers
+  caption: VIBASS 6 is full. Register on the waiting list.
+#  caption: Registration and call for papers
   caption_url: https://congresos.adeituv.es/VIBASS6/inscripcion/
 image:
   thumb: widget_vibass6.png

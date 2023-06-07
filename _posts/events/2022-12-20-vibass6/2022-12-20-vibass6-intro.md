@@ -7,7 +7,9 @@ teaser: VIBASS6 Basic Course
 header:
   title: VIBASS 6
   image_fullwidth: header_vibass18.png
-  caption: Registration form
+  caption: VIBASS 6 is full. Register on the waiting list.
+#  caption: Registration form
+  caption_url: https://congresos.adeituv.es/VIBASS6/inscripcion/
 image:
   thumb: widget_vibass6.png
   homepage: vibass6.jpg
