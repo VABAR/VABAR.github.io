@@ -40,10 +40,10 @@ widget-2:
 widget-3:
    title: "Invited talks"
    url: '/events/vibass6-talks/'
-   text: 'Concepción Ausín & Duncan Lee<br />
-   <i>· Extreme joint dependencies using nonparametric copulas</i><br />
+   text: 'Audrone Virbickaite & Duncan Lee<br />
+   <i>· Construction of flexible distributions using copulas</i><br />
    <i>· Modelling spatio-temporal variation in disease risk: Its not all about geographical adjacency</i>'
-   image: concepcion_duncan.jpg
+   image: audrone_duncan.jpg
 # widget-2:
 #    title: "Why use this theme?"
 #    url: 'http://phlow.github.io/feeling-responsive/info/'
