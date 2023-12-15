@@ -1,9 +1,14 @@
 ## Member details
-## (sorted by alphabetic order of surname)
-## (except for PI C Armero who goes first)
+## (sorted by alphabetic order of surname within group)
+## Groups:
+## - C Armero (PI)
+## - Regular members
+## - PhD students
 ##
 ## images are stored in /images/members 
     
+
+#### Principal Investigator ####
 
 - name: Carmen Armero
   affiliation: uveg
@@ -11,6 +16,9 @@
   email: carmen.armero@uv.es
   url: http://www.uv.es/armero/
   img: carmero.jpg
+
+
+#### Regular members ####
 
 - name: Rubén Amorós
   affiliation: uveg
@@ -130,6 +138,9 @@
   email: blanca.sarzo@uv.es
   url: http://fisabio.san.gva.es/
   img: blanca.jpg
+
+
+#### PhD students ####
 
 - name: Gabriel Calvo
   affiliation: uveg
