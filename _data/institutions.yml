@@ -7,13 +7,13 @@
 # and by alphabetical order.
     
 
-- name: cirad
-  title: Centre de Coopération Internationale en Recherche Agronomique pour le Développement
-  url: https://www.cirad.fr/
-  city: Montpellier
-  country: France
-  logo: cirad.png
-  logo_has_title: false
+- name: uveg
+  title: Universitat de València
+  url: http://www.uv.es
+  city: Valencia
+  country: Spain
+  logo: uveg.jpg
+  logo_has_title: true
 
 - name: duke
   title: Duke University
@@ -87,13 +87,13 @@
   logo: urjc.jpg
   logo_has_title: true
 
-- name: uveg
-  title: Universitat de València
-  url: http://www.uv.es
-  city: Valencia
-  country: Spain
-  logo: uveg.jpg
-  logo_has_title: true
+- name: cirad
+  title: Centre de Coopération Internationale en Recherche Agronomique pour le Développement
+  url: https://www.cirad.fr/
+  city: Montpellier
+  country: France
+  logo: cirad.png
+  logo_has_title: false
 
 - name: upv
   title: Universitat Politècnica de València
@@ -101,6 +101,14 @@
   city: Valencia
   country: Spain
   logo: upv.png
+  logo_has_title: true
+
+- name: icm
+  title: Institut de Ciències del Mar. CSIC.
+  url: https://www.icm.csic.es/
+  city: Barcelona
+  country: Spain
+  logo: icm.png
   logo_has_title: true
 
 - name: usc
