@@ -1,6 +1,6 @@
 ## Member details
 ## (sorted by alphabetic order of surname)
-## (except for C Armero who goes first)
+## (except for PI C Armero who goes first)
 ##
 ## images are stored in /images/members 
     
@@ -11,13 +11,6 @@
   email: carmen.armero@uv.es
   url: http://www.uv.es/armero/
   img: carmero.jpg
-
-- name: Danilo Alvares
-  affiliation: pucc
-  position: Assistant Professor
-  email: dalvares@mat.uc.cl
-  url: https://sites.google.com/site/daniloalvares/
-  img: dalvares.jpeg
 
 - name: Rubén Amorós
   affiliation: uveg
@@ -147,6 +140,12 @@
 
 
 
+# - name: Danilo Alvares
+#   affiliation: pucc
+#   position: Assistant Professor
+#   email: dalvares@mat.uc.cl
+#   url: https://sites.google.com/site/daniloalvares/
+#   img: dalvares.jpeg
 
 #- name: Francisco Santonja
 #  affiliation: uveg
