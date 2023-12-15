@@ -51,7 +51,7 @@
   affiliation: uveg
   position: Professor
   email: david.v.conesa@uv.es
-  url: http://www.geeitema.org/conesa/
+  url: https://www.uv.es/conesa/
   img: david.png
 
 - name: Anabel Forte
@@ -63,7 +63,7 @@
 
 - name: Gonzalo García-Donato
   affiliation: uclm
-  position: Associate Professor
+  position: Professor
   email: gonzalo.garciadonato@uclm.es
   url: http://www.uclm.es/profesorado/garcia-donato/
   img: gonzalo.jpg
@@ -76,10 +76,10 @@
   img: virgilio.png
 
 - name: Elena Lázaro
-  affiliation: ivia
-  position: Biostatistician
-  email: ele@gva.es
-  url: http://www.ivia.gva.es/
+  affiliation: uveg
+  position: Assistant Professor
+  email: elena.lazaro@uv.es
+  url: https://www.uv.es/
   img: elena.png
 
 - name: Antonio López
@@ -91,9 +91,9 @@
 
 - name: Miguel Angel Martínez-Beneito
   affiliation: uveg
-  position: Assistant Professor
+  position: Associate Professor
   email: miguel.a.martinez@uv.es
-  url: http://www.uv.es
+  url: https://www.uv.es/
   img: mamartinez.jpg
 
 - name: Joaquín Martínez-Minaya
