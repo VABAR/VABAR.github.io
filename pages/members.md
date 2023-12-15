@@ -84,6 +84,10 @@ Counting {{ nmembers }} individuals from {{ ninstitutions }} institutions in 5 d
   {% endfor %}
 </div><!-- /.row -->
 
+<hr> 
+
+### Doctoral students
+
 <div class="row">
   {% for member in site.data.members %}
 	{% if member.group == "student" %}
