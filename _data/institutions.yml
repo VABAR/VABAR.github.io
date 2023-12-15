@@ -31,14 +31,6 @@
   logo: fisabio.png
   logo_has_title: true
 
-- name: harvard
-  title: Harvard University
-  url: https://www.harvard.edu/
-  city: Boston, MA
-  country: USA
-  logo: harvard.png
-  logo_has_title: true
-
 - name: ivia
   title: Instituto Valenciano de Investigaciones Agrarias
   url: http://www.ivia.gva.es/
@@ -118,6 +110,14 @@
   country: Spain
   logo: usc.png
   logo_has_title: true
+
+# - name: harvard
+#   title: Harvard University
+#   url: https://www.harvard.edu/
+#   city: Boston, MA
+#   country: USA
+#   logo: harvard.png
+#   logo_has_title: true
 
 #- name: bcam
 #  title: Basque Center fpr Applied Mathematics
