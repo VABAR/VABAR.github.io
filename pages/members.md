@@ -18,33 +18,103 @@ Counting {{ nmembers }} individuals from {{ ninstitutions }} institutions in 5 d
 
 <div class="row">
   {% for member in site.data.members %}
-    <div class="medium-6 large-4 columns">
-	    <div class="row">
-	<!--          <li>-->
-	      {% if member.img %}
-	          <a href="{{ member.url }}">
-	            <img src="{{ site.url }}/images/members/{{ member.img }}">
-	          </a>
-	      {% else %}
-	          &nbsp;
-	      {% endif %}
-	      	<br/>
-	        <a href="{{ member.url }}">
-	          {{ member.name }}
-	        </a>
-	        <p>
-	          {{ member.position }}<br>
-	          {% for institution in site.data.institutions %}
-	          	{% if institution.name == member.affiliation %}
-	          		<a href="{{ institution.url }}">
-	          			{{ institution.title }}
-	          		</a>
-	          	{% endif %}
-			  {% endfor %}
-	        </p>
-	<!--          </li>-->
-	    </div><!-- /.row -->
-    </div><!-- /.column -->
+	{% if member.group == "pi" %}
+		<div class="medium-6 large-4 columns">
+			<div class="row">
+		<!--          <li>-->
+			{% if member.img %}
+				<a href="{{ member.url }}">
+					<img src="{{ site.url }}/images/members/{{ member.img }}">
+				</a>
+			{% else %}
+				&nbsp;
+			{% endif %}
+				<br/>
+				<a href="{{ member.url }}">
+				{{ member.name }}
+				</a>
+				<p>
+				{{ member.position }}<br>
+				{% for institution in site.data.institutions %}
+					{% if institution.name == member.affiliation %}
+						<a href="{{ institution.url }}">
+							{{ institution.title }}
+						</a>
+					{% endif %}
+				{% endfor %}
+				</p>
+		<!--          </li>-->
+			</div><!-- /.row -->
+		</div><!-- /.column -->
+	{% endif %}
+  {% endfor %}
+</div><!-- /.row -->
+
+<div class="row">
+  {% for member in site.data.members %}
+	{% if member.group == "member" %}
+		<div class="medium-6 large-4 columns">
+			<div class="row">
+		<!--          <li>-->
+			{% if member.img %}
+				<a href="{{ member.url }}">
+					<img src="{{ site.url }}/images/members/{{ member.img }}">
+				</a>
+			{% else %}
+				&nbsp;
+			{% endif %}
+				<br/>
+				<a href="{{ member.url }}">
+				{{ member.name }}
+				</a>
+				<p>
+				{{ member.position }}<br>
+				{% for institution in site.data.institutions %}
+					{% if institution.name == member.affiliation %}
+						<a href="{{ institution.url }}">
+							{{ institution.title }}
+						</a>
+					{% endif %}
+				{% endfor %}
+				</p>
+		<!--          </li>-->
+			</div><!-- /.row -->
+		</div><!-- /.column -->
+	{% endif %}
+  {% endfor %}
+</div><!-- /.row -->
+
+<div class="row">
+  {% for member in site.data.members %}
+	{% if member.group == "student" %}
+		<div class="medium-6 large-4 columns">
+			<div class="row">
+		<!--          <li>-->
+			{% if member.img %}
+				<a href="{{ member.url }}">
+					<img src="{{ site.url }}/images/members/{{ member.img }}">
+				</a>
+			{% else %}
+				&nbsp;
+			{% endif %}
+				<br/>
+				<a href="{{ member.url }}">
+				{{ member.name }}
+				</a>
+				<p>
+				{{ member.position }}<br>
+				{% for institution in site.data.institutions %}
+					{% if institution.name == member.affiliation %}
+						<a href="{{ institution.url }}">
+							{{ institution.title }}
+						</a>
+					{% endif %}
+				{% endfor %}
+				</p>
+		<!--          </li>-->
+			</div><!-- /.row -->
+		</div><!-- /.column -->
+	{% endif %}
   {% endfor %}
 </div><!-- /.row -->
 

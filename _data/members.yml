@@ -11,6 +11,7 @@
 #### Principal Investigator ####
 
 - name: Carmen Armero
+  group: pi
   affiliation: uveg
   position: Principal Investigator
   email: carmen.armero@uv.es
@@ -21,6 +22,7 @@
 #### Regular members ####
 
 - name: Rubén Amorós
+  group: member
   affiliation: uveg
   position: Assistant Professor
   email: ruben.amoros@uv.es
@@ -28,6 +30,7 @@
   img: ruben.jpg
 
 - name: Xavi Barber
+  group: member
   affiliation: umh
   position: Associate Professor
   email: xbarber@umh.es
@@ -35,6 +38,7 @@
   img: xavi.jpg
 
 - name: Jim Berger
+  group: member
   affiliation: duke
   position: Professor
   email: berger@stat.duke.edu
@@ -42,6 +46,7 @@
   img: jim.jpg
 
 - name: Stefano Cabras
+  group: member
   affiliation: uc3m
   position: Professor
   email: s.cabras@unica.it
@@ -49,6 +54,7 @@
   img: stefano.jpg
 
 - name: María-Eugenia Castellanos
+  group: member
   affiliation: urjc
   position: Professor
   email: maria.castellanos@urjc.es
@@ -56,6 +62,7 @@
   img: meugenia.png
 
 - name: David Conesa
+  group: member
   affiliation: uveg
   position: Professor
   email: david.v.conesa@uv.es
@@ -63,6 +70,7 @@
   img: david.png
 
 - name: Anabel Forte
+  group: member
   affiliation: uveg
   position: Associate Professor
   email: anabel.forte@uv.es
@@ -70,6 +78,7 @@
   img: aforte.jpeg
 
 - name: Gonzalo García-Donato
+  group: member
   affiliation: uclm
   position: Professor
   email: gonzalo.garciadonato@uclm.es
@@ -77,6 +86,7 @@
   img: gonzalo.jpg
 
 - name: Virgilio Gómez-Rubio
+  group: member
   affiliation: uclm
   position: Professor
   email: virgilio.gomez@uclm.es
@@ -84,6 +94,7 @@
   img: virgilio.png
 
 - name: Elena Lázaro
+  group: member
   affiliation: uveg
   position: Assistant Professor
   email: elena.lazaro@uv.es
@@ -91,6 +102,7 @@
   img: elena.png
 
 - name: Antonio López
+  group: member
   affiliation: uveg
   position: Professor
   email: antonio.lopez@uv.es
@@ -98,6 +110,7 @@
   img: alopez.jpg
 
 - name: Miguel Angel Martínez-Beneito
+  group: member
   affiliation: uveg
   position: Associate Professor
   email: miguel.a.martinez@uv.es
@@ -105,6 +118,7 @@
   img: mamartinez.jpg
 
 - name: Joaquín Martínez-Minaya
+  group: member
   affiliation: upv
   position: Assistant Professor
   email: jmarmin@eio.upv.es
@@ -112,6 +126,7 @@
   img: joaquin.jpg
 
 - name: Facundo Muñoz
+  group: member
   affiliation: cirad
   position: Biostatistician
   email: facundo.munoz@cirad.fr
@@ -119,6 +134,7 @@
   img: facu.jpg
 
 - name: Francisco Palmí
+  group: member
   affiliation: uveg
   position: Assistant Professor
   email: francisco.palmi@uv.es
@@ -126,6 +142,7 @@
   img: fpalmi.jpg
 
 - name: Alicia Quirós
+  group: member
   affiliation: unileon
   position: Associate Professor
   email: alicia.quiros@unileon.es
@@ -133,6 +150,7 @@
   img: alicia.jpg
 
 - name: Blanca Sarzo Carles
+  group: member
   affiliation: fisabio
   position: Postdoctoral researcher
   email: blanca.sarzo@uv.es
@@ -143,6 +161,7 @@
 #### PhD students ####
 
 - name: Miguel Ángel Beltrán Sánchez
+  group: student
   affiliation: uveg
   position: PhD student
   email: mianbel@alumni.uv.es
@@ -150,6 +169,7 @@
   img: mabeltran.jpg
 
 - name: Gabriel Calvo
+  group: student
   affiliation: uveg
   position: PhD student
   email: gabriel.calvo@uv.es
@@ -157,6 +177,7 @@
   img: gcalvo.jpg
 
 - name: Martina Cendoya Martínez
+  group: student
   affiliation: ivia
   position: PhD student
   email: jesusgutierrezbotella@gmail.com
@@ -164,6 +185,7 @@
   img: jgutierrez.png
 
 - name: Alba Fuster Alonso
+  group: student
   affiliation: icm
   position: PhD student
   email: alba.fuster1398@gmail.com
@@ -171,6 +193,7 @@
   img: afuster.jpg
 
 - name: Jesús Gutiérrez
+  group: student
   affiliation: usc
   position: PhD student
   email: jesusgutierrezbotella@gmail.com
