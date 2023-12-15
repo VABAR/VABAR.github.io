@@ -4,7 +4,7 @@
 # UVEG first since it is the headquarters of the group
 # Duke next as Jim is the group's most prominent reference
 # The rest of institutions is sorted by decreasing number of members
-# and by alphabetic order.
+# and by alphabetical order.
     
 
 - name: cirad
@@ -101,6 +101,14 @@
   city: Valencia
   country: Spain
   logo: upv.png
+  logo_has_title: true
+
+- name: usc
+  title: Universidade de Santiago de Compostela
+  url: https://www.usc.gal/
+  city: Santiago de Compostela
+  country: Spain
+  logo: usc.png
   logo_has_title: true
 
 #- name: bcam
