@@ -11,7 +11,7 @@ header:
  caption: Registration and call for papers
   caption_url: https://congresos.adeituv.es/VIBASS7/inscripcion/
 image:
-  thumb: widget_vibass7.png
+  thumb: widget_vibass7.jpg
   homepage: vibass7.jpg
 categories: events
 ---
