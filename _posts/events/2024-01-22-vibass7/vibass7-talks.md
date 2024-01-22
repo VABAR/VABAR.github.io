@@ -1,18 +1,18 @@
 ---
 layout: page
-title: "VIBASS6 - Invited Talks"
-subheadline: "July 14, 2023"
+title: "VIBASS7 - Invited Talks"
+subheadline: "July 12, 2024"
 meta_teaser: "Invited Talks"
 teaser: Invited Talks
 header:
-  title: VIBASS6 - Invited Talks
+  title: VIBASS7 - Invited Talks
   image_fullwidth: header_vibass18.png
-  caption: VIBASS 6 is full. Register on the waiting list.
-#  caption: Registration form
-  caption_url: https://congresos.adeituv.es/VIBASS6/inscripcion/
+  # caption: VIBASS 7 is full. Register on the waiting list.
+  caption: Registration form
+  caption_url: https://congresos.adeituv.es/VIBASS7/inscripcion/
 image:
-  thumb: widget_vibass6.png
-  homepage: vibass6.jpg
+  thumb: widget_vibass7.png
+  homepage: vibass7.jpg
 categories: events
 ---
 
