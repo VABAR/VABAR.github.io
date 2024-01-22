@@ -43,7 +43,7 @@ widget-3:
    text: 'Alicia Quirós & Thomas Opits<br />
    <i>· Bayesian methods applied to Biomedicine</i><br />
    <i>· TBA</i>'
-   image: alicia_thomas.jpg
+   image: alicia-thomas.jpg
 # widget-2:
 #    title: "Why use this theme?"
 #    url: 'http://phlow.github.io/feeling-responsive/info/'
