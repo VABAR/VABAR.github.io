@@ -16,11 +16,11 @@ header:
 
 widget-1:
    title: "València International Bayesian Analysis Summer School"
-   url: '/events/vibass6/'
+   url: '/events/vibass7/'
 #   text: 'Registrations are fully booked. Please register on the <a href="https://congresos.adeituv.es/VIBASS6/">waiting list</a>.'
 #   image: widget_vibass6_closed.png
-   text: 'Announcing the 6th edition of VIBASS summer school on Bayesian Statistics to be held from 10 to 14 July 2023 in València (Spain).'
-   image: widget_vibass6.png
+   text: 'Announcing the 7th edition of VIBASS summer school on Bayesian Statistics to be held from 8 to 12 July 2024 in València (Spain).'
+   image: widget_vibass7.jpg
 
 #widget-2:
 #   title: "València International Bayesian Analysis Summer School"
@@ -33,17 +33,17 @@ widget-1:
 
 
 widget-2:
-   title: "Olivier Gimenez"
-   url: '/events/vibass6-course/'
-   text: 'Invited course: <br> <i>«Bayesian capture-recapture inference with hidden Markov models»</i>'
-   image: olivier-gimenez.jpg
+   title: "Gianluca Baio"
+   url: '/events/vibass7-course/'
+   text: 'Invited course: <br> <i>«Bayesian modelling for economic evaluation of healthcare interventions»</i>'
+   image: gianluca-baio_wide.jpg
 widget-3:
    title: "Invited talks"
-   url: '/events/vibass6-talks/'
-   text: 'Audrone Virbickaite & Duncan Lee<br />
-   <i>· Construction of flexible distributions using copulas</i><br />
-   <i>· Modelling spatio-temporal variation in disease risk: Its not all about geographical adjacency</i>'
-   image: audrone_duncan.jpg
+   url: '/events/vibass7-talks/'
+   text: 'Alicia Quirós & Thomas Opits<br />
+   <i>· Bayesian methods applied to Biomedicine</i><br />
+   <i>· TBA</i>'
+   image: alicia_thomas.jpg
 # widget-2:
 #    title: "Why use this theme?"
 #    url: 'http://phlow.github.io/feeling-responsive/info/'
