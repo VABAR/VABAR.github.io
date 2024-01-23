@@ -16,7 +16,7 @@ image:
 categories: events
 ---
 
-This course (12 hours) is provided by [__Dr. Gianluca Baio__](https://gianluca.statistica.it/books/bmhe/) (University College London, England). He is author of the books [_Bayesian Methods in Pharmaceutical Research_](https://gianluca.statistica.it/books/bmpr/), [_Bayesian Cost-Effectiveness Analysis with the R package BCEA_](https://gianluca.statistica.it/books/bcea/) and [_Bayesian Methods in Health Economics_](https://gianluca.statistica.it/books/bmhe/).
+This course (12 hours) is provided by [__Dr. Gianluca Baio__](https://gianluca.statistica.it/books/bmhe/) (University College London, UK). He is author of the books [_Bayesian Methods in Pharmaceutical Research_](https://gianluca.statistica.it/books/bmpr/), [_Bayesian Cost-Effectiveness Analysis with the R package BCEA_](https://gianluca.statistica.it/books/bcea/) and [_Bayesian Methods in Health Economics_](https://gianluca.statistica.it/books/bmhe/).
 
 ![image]({{ site.urlimg }}gianluca-baio.jpg)
 
