@@ -41,7 +41,7 @@ widget-3:
    title: "Invited talks"
    url: '/events/vibass7-talks/'
    text: 'Alicia Quirós & Thomas Opits<br />
-   <i>· Bayesian methods applied to Biomedicine</i><br />
+   <i>· Variable selection with missing data for biomedicine</i><br />
    <i>· TBA</i>'
    image: alicia-thomas.jpg
 # widget-2:

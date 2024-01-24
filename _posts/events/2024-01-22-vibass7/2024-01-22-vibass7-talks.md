@@ -17,9 +17,18 @@ categories: events
 ---
 
 
-## Bayesian methods applied to Biomedicine
+## Variable selection with missing data for biomedicine
 
-To be announced
+Variable selection is a common practice in biomedical research,
+particularly in determining the predictive factors of a clinical condition.
+In addition, missing data are also common in this context. We address the
+interplay between these two problems, which are frequently encountered in
+biostatistics but surprisingly have received little attention in the
+literature. An example is used to demonstrate the problem, in which we
+apply an objective Bayesian variable selection procedure that naturally
+incorporates multiple imputation. This methodology utilizes all available
+data, requires no user specifications, employs available R packages, and
+produces interpretable results.
 
 
 ![image]({{ site.urlimg }}alicia-quiros.jpg)
