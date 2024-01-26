@@ -40,7 +40,7 @@ widget-2:
 widget-3:
    title: "Invited talks"
    url: '/events/vibass7-talks/'
-   text: 'Alicia Quirós & Thomas Opits<br />
+   text: 'Alicia Quirós & Thomas Opitz<br />
    <i>· Variable selection with missing data for biomedicine</i><br />
    <i>· An introduction to Bayesian modeling of extreme events</i>'
    image: alicia-thomas.jpg
