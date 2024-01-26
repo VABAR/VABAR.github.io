@@ -42,7 +42,7 @@ widget-3:
    url: '/events/vibass7-talks/'
    text: 'Alicia Quirós & Thomas Opits<br />
    <i>· Variable selection with missing data for biomedicine</i><br />
-   <i>· TBA</i>'
+   <i>· An introduction to Bayesian modeling of extreme events</i>'
    image: alicia-thomas.jpg
 # widget-2:
 #    title: "Why use this theme?"

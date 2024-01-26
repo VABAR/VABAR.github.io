@@ -40,12 +40,13 @@ Universidad de León, Spain
 
 <hr>
 
-## TBA
+## An introduction to Bayesian modeling of extreme events
 
-To be announced
+Extreme-value theory provides a rich set of asymptotically motivated models for analyzing univariate and dependent extreme events, such as exceedances above a high threshold. This talk aims to provide a brief introduction into extreme-value theory followed by an overview of Bayesian approaches developed in this context, and the advantages they bring.  Given that extreme-value analysis frequently occurs in data-scarce scenarios, eliciting prior distributions is helpful for obtaining more reliable inferences.  In univariate extremes, the tail index is a key parameter known for its challenging accurate estimation, and the choice of prior distribution for addressing this challenge will be explored. Moreover, Bayesian hierarchical models tailored for dependent spatial extremes will be discussed.  Leveraging latent-variable approaches in these models allows us to sidestep the computationally cumbersome task of calculating multivariate cumulative distribution function values resulting from data censoring below the threshold. The practical utility of such models will be showcased through their application to environmental data.
 
 ![image]({{ site.urlimg }}thomas-opitz.jpg)
 
 __Dr. Thomas Opitz__
-Inrae, Avignon, France
+Senior Research Scientist
+Biostatistics and Spatial Processes, Inrae, France
 <https://biosp.mathnum.inrae.fr/homepage-thomas-opitz>
