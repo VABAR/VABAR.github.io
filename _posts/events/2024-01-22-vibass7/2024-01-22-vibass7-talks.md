@@ -8,7 +8,7 @@ header:
   title: VIBASS7 - Invited Talks
   image_fullwidth: header_vibass18.png
   # caption: VIBASS 7 is full. Register on the waiting list.
-  caption: Registration form
+  caption: Registration starting soon
   caption_url: https://congresos.adeituv.es/VIBASS7/inscripcion/
 image:
   thumb: widget_vibass7.jpg
