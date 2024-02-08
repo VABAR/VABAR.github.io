@@ -8,7 +8,7 @@ header:
   title: VIBASS7 - Invited Talks
   image_fullwidth: header_vibass18.png
   # caption: VIBASS 7 is full. Register on the waiting list.
-  caption: Registration starting soon
+  caption: Registration and call for papers
   caption_url: https://eventos.adeit.es/109741/detail/vibass7-valencia-international-bayesian-summer-school.html
 image:
   thumb: widget_vibass7.jpg
