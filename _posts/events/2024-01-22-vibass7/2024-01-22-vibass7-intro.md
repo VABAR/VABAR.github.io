@@ -25,52 +25,53 @@ Follow the instructions on the package website for installing it, ideally prior 
 
 ## Monday
 
-### Session I: __All you need is... probability__
+### Session I: __Introduction to Bayesian Statistics: all you need is … probability__
 
-Frequentist and Bayesian probability. Bayes’ theorem for random events and variables,
-parameters, hypothesis, etc. Sequential updating. Predictive probabilities.
+Introduction. Bayes’ theorem. Introduction to Bayesian inference.
 
 ### Session II: __Binary data__
 
-__Proportions__: binomial distribution and likelihood function.
-__Prior distribution__: the beta distribution.
-__Summarising__ posterior inferences.
+Introduction. Bayesian learning for binary data: estimation. Bayesian learning for binary data: prediction.
 
 
-### Session III. __Inference and prediction with simulated samples__
+### Session III. __Count data__
 
-__Estimation and prediction__. Simulated samples: comparison of independent populations.
-
-### Session IV. __Count data__
-
-__Count data__: Poisson distribution. Poisson model parameterised in terms of rate and exposure. Gamma distribution as __conjugate prior distributions__. Negative binomial __predictive distributions__. 
+Poisson data. Bayesian learning for count data: estimation. Bayesian learning for count data: predicction.
 
 
-### Session V. Normal data.
+### Session IV. __Normal data.__
 
-__Normal data__: Estimation of a normal mean with known variance. __Prediction__ of a future observation. Normal data with unknown mean and variance. __Nuisance
-parameters__. __Joint prior distributions__. Joint, conditional and marginal
-__posterior distributions__. 
+Normal data. Bayesian learning for normal data with unknown mean and known variance: estimation and prediction. Bayesian learning for normal data with unknown mean and unknown variance: estimation and prediction.
+
+
+### Session V. __Bayesian linear models__
+
+Frequentist linear models. Bayesian linear models. Bayesian analysis with conjugate priors. 
 
 
 ## Tuesday
 
-### Session I: Numerical approaches.
+### Session I: __Simulation-based Bayesian inference__
 
-The big problem in the Bayesian framework: resolution of integrals that appear when applying the learning process.
-Gaussian approximations, Laplace approximations, Monte Carlo integration and importance sampling, Markov chain Monte Carlo.
+Introduction. Simulation by composition.
 
 
-### Session II. Bayesian linear models.
+### Session II. __Numerical approaches__
 
-Apply basic Importance Sampling and MCMC methods via available software for fitting regression models.
+Introduction. Importance sampling. Markov chain Monte Carlo methods: Metropolis-Hastings algorithm; Gibbs sampling algorithm.
 
-### Session III. Bayesian generalised linear models.
 
-Extending regression models to non-Gaussian responses.
+### Session III. __Bayesian Generalized linear models__
 
-### Session IV. Bayesian hierarchical models.
+Introduction. Bayesian Generalized linear models: Bayesian logistic regression model; Bayesian Poisson regression model.
 
-Incorporating _random_ effects: __Bayesian hierarchical models__ (BHMs), the coolest tool for modelling highly structured models. Hierarchies, hyperparameters, and hyperpriors. (Generalised) linear mixed models as basic examples of BHMs.
-__Software__ for inference in Bayesian hierarchical models.
+
+### Session IV. __Bayesian hierarchical modelling__
+
+Introduction. Bayesian hierarchical: Linear mixed-effects models; Generalized linear mixed-effects models.
+
+
+### Session V. __DCD__
+
+Doubts, comments and discussion.
 
