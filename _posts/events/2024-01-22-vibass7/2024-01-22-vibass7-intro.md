@@ -16,7 +16,7 @@ image:
 categories: events
 ---
 
-The first two days include a basic course on Bayesian learning (12 hours), with conceptual sessions in the morning and practical sessions with basic Bayesian packages in the afternoon. 
+The first two days include a basic course on Bayesian learning (12 hours), alternating conceptual and practical hands-on sessions.
 This is a summary of the contents of both days.
 
 We use the R package [`vibass`](http://vabar.es/vibass/) which contains the practical activities and a few interactive apps.
@@ -49,29 +49,29 @@ Normal data. Bayesian learning for normal data with unknown mean and known varia
 Frequentist linear models. Bayesian linear models. Bayesian analysis with conjugate priors. 
 
 
-## Tuesday
-
-### Session I: __Simulation-based Bayesian inference__
+### Session VI: __Simulation-based Bayesian inference__
 
 Introduction. Simulation by composition.
 
 
-### Session II. __Numerical approaches__
+## Tuesday
+
+### Session VII. __Numerical approaches__
 
 Introduction. Importance sampling. Markov chain Monte Carlo methods: Metropolis-Hastings algorithm; Gibbs sampling algorithm.
 
 
-### Session III. __Bayesian Generalized linear models__
+### Session VIII. __Bayesian Generalized linear models__
 
 Introduction. Bayesian Generalized linear models: Bayesian logistic regression model; Bayesian Poisson regression model.
 
 
-### Session IV. __Bayesian hierarchical modelling__
+### Session IX. __Bayesian hierarchical modelling__
 
 Introduction. Bayesian hierarchical: Linear mixed-effects models; Generalized linear mixed-effects models.
 
 
-### Session V. __DCD__
+### Session X. __DCD__
 
 Doubts, comments and discussion.
 
