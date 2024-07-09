@@ -26,7 +26,7 @@ At the end of the course, participants will be able to start applying Bayesian m
 
 - __Prerequisites__:
 
-  - A first course of probability and statistics. Descriptive statistics, probability distributions.
+  - Basic knowledge of probability and statistics. Descriptive statistics, probability distributions.
 
   - Basic knowledge of the R scripting language for statistical computing.
 
