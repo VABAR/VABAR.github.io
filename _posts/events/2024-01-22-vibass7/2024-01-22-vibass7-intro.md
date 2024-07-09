@@ -19,6 +19,17 @@ categories: events
 The first two days include a basic course on Bayesian learning (12 hours), alternating conceptual and practical hands-on sessions.
 This is a summary of the contents of both days.
 
+At the end of the course, participants will be able to start applying Bayesian methods to simple models in their field, having acquired an understanding of Bayesian concepts and becoming aware of the possibilities for more specific and more complex methods for in-depth analysis.
+
+- __Target public__: people with little to no previous knowledge of Bayesian statistics with some concrete motivation. E.g. master/PhD students who are going to use or work with Bayesian statistics, professionals in various fields (medicine, biology, ecology, industry, etc.) seeking to improve their quantitative capacities.
+
+
+- __Prerequisites__:
+
+  - A first course of probability and statistics. Descriptive statistics, probability distributions.
+
+  - Basic knowledge of the R scripting language for statistical computing.
+
 We use the R package [`vibass`](http://vabar.es/vibass/) which contains the practical activities and a few interactive apps.
 Please make sure that you bring a recent R version, with recently updated packages.
 Follow the instructions on the package website for installing it, ideally prior to the workshop, to make the most of our time together.
