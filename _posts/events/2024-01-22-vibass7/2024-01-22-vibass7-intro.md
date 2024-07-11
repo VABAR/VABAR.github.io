@@ -28,7 +28,12 @@ At the end of the course, participants will be able to start applying Bayesian m
 
   - Basic knowledge of probability and statistics. Descriptive statistics, probability distributions.
 
-  - Basic knowledge of the R scripting language for statistical computing.
+  - Basic knowledge of the R language for statistical computing.
+
+  - A working level of English.
+
+
+If you want to (and can) prepare yourself in advance in order to make the most out of the training, we can recommend a few [books that are freely available on line]({{ site.url }}/vabar/book-recommendations.md).
 
 We use the R package [`vibass`](http://vabar.es/vibass/) which contains the practical activities and a few interactive apps.
 Please make sure that you bring a recent R version, with recently updated packages.
