@@ -5,7 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "VABAR – VAlencia BAyesian Research group"
+title: "VABAR –VAlencia BAyesian Research group"
 header:
    image_fullwidth: "header_valencia.jpg"
 # widget-1:
@@ -16,11 +16,11 @@ header:
 
 widget-1:
    title: "València International Bayesian Analysis Summer School"
-   url: '/events/vibass7/'
+   url: '/events/vibass8/'
 #   text: 'Registrations are fully booked. Please register on the <a href="https://congresos.adeituv.es/VIBASS6/">waiting list</a>.'
 #   image: widget_vibass6_closed.png
-   text: 'Announcing the 7th edition of VIBASS summer school on Bayesian Statistics to be held from 8 to 12 July 2024 in València (Spain).'
-   image: widget_vibass7.jpg
+   text: 'Announcing the 8th edition of VIBASS summer school on Bayesian Statistics to be held from 7 to 10 July 2025 in València (Spain).'
+   image: widget_vibass8.jpg
 
 #widget-2:
 #   title: "València International Bayesian Analysis Summer School"
@@ -33,17 +33,17 @@ widget-1:
 
 
 widget-2:
-   title: "Gianluca Baio"
-   url: '/events/vibass7-course/'
-   text: 'Invited course: <br> <i>«Bayesian modelling for economic evaluation of healthcare interventions»</i>'
-   image: gianluca-baio_wide.jpg
-widget-3:
-   title: "Invited talks"
-   url: '/events/vibass7-talks/'
-   text: 'Alicia Quirós & Thomas Opitz<br />
-   <i>· Variable selection with missing data for biomedicine</i><br />
-   <i>· An introduction to Bayesian modeling of extreme events</i>'
-   image: alicia-thomas.jpg
+   title: "Javier Aguilar"
+   url: '/events/vibass8-course/'
+   text: 'Invited course: <br> <i>«Bayesian modelling with brms»</i>'
+   image: javier-aguilar_wide.jpg
+# widget-3:
+#    title: "Invited talks"
+#    url: '/events/vibass7-talks/'
+#    text: 'Alicia Quirós & Thomas Opitz<br />
+#    <i>· Variable selection with missing data for biomedicine</i><br />
+#    <i>· An introduction to Bayesian modeling of extreme events</i>'
+#    image: alicia-thomas.jpg
 # widget-2:
 #    title: "Why use this theme?"
 #    url: 'http://phlow.github.io/feeling-responsive/info/'

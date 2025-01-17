@@ -1,24 +1,24 @@
 ---
 layout: page
-title: "VIBASS7 - Invited Course"
+title: "VIBASS8 - Invited Course"
 subheadline: "Bayesian modelling for economic evaluation of healthcare interventions"
-meta_teaser: "VIBASS7 Invited Course"
-#teaser: VIBASS7 Invited Course
+meta_teaser: "VIBASS8 Invited Course"
+#teaser: VIBASS8 Invited Course
 header:
-  title: VIBASS 7
+  title: VIBASS 8
   image_fullwidth: header_vibass18.png
-  # caption: VIBASS 7 is full. Register on the waiting list.
+  # caption: VIBASS 8 is full. Register on the waiting list.
   caption: Registration and call for papers
   caption_url: https://eventos.adeit.es/109741/detail/vibass7-valencia-international-bayesian-summer-school.html
 image:
-  thumb: widget_vibass7.jpg
-  homepage: vibass7.jpg
+  thumb: widget_vibass8.png
+  homepage: vibass8.png
 categories: events
 ---
 
-This course (12 hours) is provided by [__Dr. Gianluca Baio__](https://gianluca.statistica.it/books/bmhe/) (University College London, UK). He is author of the books [_Bayesian Methods in Pharmaceutical Research_](https://gianluca.statistica.it/books/bmpr/), [_Bayesian Cost-Effectiveness Analysis with the R package BCEA_](https://gianluca.statistica.it/books/bcea/) and [_Bayesian Methods in Health Economics_](https://gianluca.statistica.it/books/bmhe/).
+This course (12 hours) is provided by [__Javier Enrique Aguilar__](https://jear2412.github.io/) (Doctoral Researcher at the Cluster of Excellence SimTech at the University of Stuttgart and a Research Assistant at TU Dortmund, Germany). 
 
-![image]({{ site.urlimg }}gianluca-baio.jpg)
+![image]({{ site.urlimg }}javier-aguilar.jpg)
 
 <!-- - Target audience
 

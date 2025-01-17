@@ -1,18 +1,18 @@
 ---
 layout: page
-title: "VIBASS7 - Basic Course"
+title: "VIBASS8 - Basic Course"
 subheadline: "Introduction to Bayesian Learning"
-meta_teaser: "VIBASS7 Basic Course"
-teaser: VIBASS7 Basic Course
+meta_teaser: "VIBASS8 Basic Course"
+teaser: VIBASS8 Basic Course
 header:
-  title: VIBASS 7
+  title: VIBASS 8
   image_fullwidth: header_vibass18.png
-  # caption: VIBASS 7 is full. Register on the waiting list.
+  # caption: VIBASS 8 is full. Register on the waiting list.
   caption: Registration and call for papers
   caption_url: https://eventos.adeit.es/109741/detail/vibass7-valencia-international-bayesian-summer-school.html
 image:
-  thumb: widget_vibass7.jpg
-  homepage: vibass7.jpg
+  thumb: widget_vibass8.png
+  homepage: vibass8.jpg
 categories: events
 ---
 
