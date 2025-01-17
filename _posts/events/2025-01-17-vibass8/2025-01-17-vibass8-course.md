@@ -9,7 +9,7 @@ header:
   image_fullwidth: header_vibass18.png
   # caption: VIBASS 8 is full. Register on the waiting list.
   caption: Registration and call for papers
-  caption_url: https://eventos.adeit.es/109741/detail/vibass7-valencia-international-bayesian-summer-school.html
+  caption_url: https://eventos.adeit.es/127929/detail/vibass8-valencia-international-bayesian-summer-school.html
 image:
   thumb: widget_vibass8.png
   homepage: vibass8.png
@@ -26,10 +26,10 @@ This course (12 hours) is provided by [__Javier Enrique Aguilar__](https://jear2
 
 - Abstract
 
-  When a new healthcare intervention (often, but not necessarily, a drug) is approved on the market, in a given jurisdiction, it typically has to go through another stage of negotiation to get "reimbursement". This means that the intervention is considered "good value-for-money" and so the healthcare provider decides to make it available for the reference population. This is typically the situation in many countries, including many in Europe. 
-  
-  This process is based on structured modelling, typically complementing different sources of evidence and aimed at demonstrating the "cost-effectiveness" of a given intervention. Bayesian modelling is instrumental to this type of problems and in this short course we will review the basics of economic evaluation, with a specific reference to the use of Bayesian models for individual level data (e.g. directly coming from experimental studies), as well as for generalised evidence synthesis. The models will be complemented with practical material."
+<!--  When a new healthcare intervention (often, but not necessarily, a drug) is approved on the market, in a given jurisdiction, it typically has to go through another stage of negotiation to get "reimbursement". This means that the intervention is considered "good value-for-money" and so the healthcare provider decides to make it available for the reference population. This is typically the situation in many countries, including many in Europe.
 
+  This process is based on structured modelling, typically complementing different sources of evidence and aimed at demonstrating the "cost-effectiveness" of a given intervention. Bayesian modelling is instrumental to this type of problems and in this short course we will review the basics of economic evaluation, with a specific reference to the use of Bayesian models for individual level data (e.g. directly coming from experimental studies), as well as for generalised evidence synthesis. The models will be complemented with practical material."
+-->
 <!-- - Training materials
 
 	Materials for the course are freely available on line at:
