@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "VIBASS8 - Invited Course"
-subheadline: "Bayesian modelling for economic evaluation of healthcare interventions"
+subheadline: "Bayesian Modelling with brms"
 meta_teaser: "VIBASS8 Invited Course"
 #teaser: VIBASS8 Invited Course
 header:
