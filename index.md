@@ -20,7 +20,7 @@ widget-1:
 #   text: 'Registrations are fully booked. Please register on the <a href="https://congresos.adeituv.es/VIBASS6/">waiting list</a>.'
 #   image: widget_vibass6_closed.png
    text: 'Announcing the 8th edition of VIBASS summer school on Bayesian Statistics to be held from 7 to 10 July 2025 in València (Spain).'
-   image: widget_vibass8.jpg
+   image: widget_vibass8.png
 
 #widget-2:
 #   title: "València International Bayesian Analysis Summer School"
