@@ -37,6 +37,13 @@ widget-2:
    url: '/events/vibass8-course/'
    text: 'Invited course: <br> <i>«Bayesian modelling with brms»</i>'
    image: javier-aguilar_wide.jpg
+   
+widget-3:
+   title: "Book recommendations"
+   url: '/vabar/book-recommendations/'
+   text: 'Books: <br> <i>«Some good introductory books freely available on line»</i>'
+   image: books_wide.png
+   
 # widget-3:
 #    title: "Invited talks"
 #    url: '/events/vibass7-talks/'
