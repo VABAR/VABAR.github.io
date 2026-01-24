@@ -9,10 +9,10 @@ header:
   image_fullwidth: header_vibass18.png
   # caption: VIBASS 9 is full. Register on the waiting list.
   caption: Registration and call for papers
-  caption_url: https://eventos.adeit.es/127929/detail/vibass9-valencia-international-bayesian-summer-school.html
+  #caption_url: https://eventos.adeit.es/127929/detail/vibass9-valencia-international-bayesian-summer-school.html
 image:
   thumb: widget_vibass9.png
-  homepage: vibass9.jpg
+  #homepage: vibass9.jpg
 categories: events
 ---
 
