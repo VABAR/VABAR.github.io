@@ -1,18 +1,18 @@
 ---
 layout: page
-title: "VIBASS8 - Basic Course"
+title: "VIBASS9 - Basic Course"
 subheadline: "Introduction to Bayesian Learning"
-meta_teaser: "VIBASS8 Basic Course"
+meta_teaser: "VIBASS9 Basic Course"
 teaser: VIBASS8 Basic Course
 header:
-  title: VIBASS 8
+  title: VIBASS 9
   image_fullwidth: header_vibass18.png
-  # caption: VIBASS 8 is full. Register on the waiting list.
+  # caption: VIBASS 9 is full. Register on the waiting list.
   caption: Registration and call for papers
   caption_url: https://eventos.adeit.es/127929/detail/vibass8-valencia-international-bayesian-summer-school.html
 image:
-  thumb: widget_vibass8.png
-  homepage: vibass8.jpg
+  thumb: widget_vibass9.png
+  homepage: vibass9.jpg
 categories: events
 ---
 
@@ -21,7 +21,7 @@ This is a summary of the contents of both days.
 
 At the end of the course, participants will be able to start applying Bayesian methods to simple models in their field, having acquired an understanding of Bayesian concepts and becoming aware of the possibilities for more specific and more complex methods for in-depth analysis.
 
-- __Target public__: people with little to no previous knowledge of Bayesian statistics with some concrete motivation. E.g. master/PhD students who are going to use or work with Bayesian statistics, professionals in various fields (medicine, biology, ecology, industry, etc.) seeking to improve their quantitative capacities.
+- __Target audience__: people with little to no previous knowledge of Bayesian statistics with some concrete motivation. E.g. master/PhD students who are going to use or work with Bayesian statistics, professionals in various fields (medicine, biology, ecology, industry, etc.) seeking to improve their quantitative capacities.
 
 
 - __Prerequisites__:
