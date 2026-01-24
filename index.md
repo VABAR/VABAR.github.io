@@ -16,11 +16,11 @@ header:
 
 widget-1:
    title: "València International Bayesian Analysis Summer School"
-   url: '/events/vibass8/'
+   url: '/events/vibass9/'
 #   text: 'Registrations are fully booked. Please register on the <a href="https://congresos.adeituv.es/VIBASS6/">waiting list</a>.'
 #   image: widget_vibass6_closed.png
-   text: 'Announcing the 8th edition of VIBASS summer school on Bayesian Statistics to be held from 7 to 10 July 2025 in València (Spain).'
-   image: widget_vibass8.png
+   text: 'Announcing the 9th edition of VIBASS summer school on Bayesian Statistics to be held from 6 to 9 July 2026 in València (Spain).'
+   image: widget_vibass9.png
 
 #widget-2:
 #   title: "València International Bayesian Analysis Summer School"
@@ -33,10 +33,10 @@ widget-1:
 
 
 widget-2:
-   title: "Javier Aguilar"
-   url: '/events/vibass8-course/'
-   text: 'Invited course: <br> <i>«Bayesian modelling with brms»</i>'
-   image: javier-aguilar_wide.jpg
+   title: "Denis-Rustand"
+   url: '/events/vibass9-course/'
+   text: 'Invited course: <br> <i>«Bayesian survival, longitudinal and joint models with INLA»</i>'
+   image: denis-rustand_wide.jpg
    
 widget-3:
    title: "Book recommendations"
