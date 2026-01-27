@@ -3,13 +3,13 @@ layout: page-fullwidth
 title: "Wonderful Typography"
 subheadline: "Reading Experience"
 meta_teaser: "Feeling Responsive uses Volkhov for headlines, Lato for everything else and if you are in need to show some code, it will be in Lucida Console."
-teaser: "<em>Feeling Responsive</em> uses <a href='https://www.google.com/fonts/specimen/Volkhov'>Volkhov</a> for headlines, <a href='https://www.google.com/fonts/specimen/Lato'>Lato</a> for everything else and if you are in need to show some code, it will be in <a href='http://www.microsoft.com/typography/fonts/family.aspx?FID=18'>Lucida Console</a> or <a href='http://en.wikipedia.org/wiki/Monaco_(typeface)'>Monaco</a>."
+teaser: "<em>Feeling Responsive</em> uses <a href='https://www.google.com/fonts/specimen/Volkhov'>Volkhov</a> for headlines, <a href='https://www.google.com/fonts/specimen/Lato'>Lato</a> for everything else and if you are in need to show some code, it will be in <a href='https://www.microsoft.com/typography/fonts/family.aspx?FID=18'>Lucida Console</a> or <a href='https://en.wikipedia.org/wiki/Monaco_(typeface)'>Monaco</a>."
 header: no
 image:
     thumb:  homepage_typography_thumb.jpg
     homepage: homepage_typography.jpg
     caption: Image by Antonio
-    caption_url: "http://www.aisleone.net/"
+    caption_url: "https://www.aisleone.net/"
 categories:
     - design
 ---
@@ -272,12 +272,12 @@ Need a break? I give you three!<br><br><br>
 
 
  [1]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list
- [2]: http://phlow.de/
- [3]: http://en.wikipedia.org/wiki/Ed_Benguiat
+ [2]: https://phlow.de/
+ [3]: https://en.wikipedia.org/wiki/Ed_Benguiat
  [4]: https://www.google.com/fonts/specimen/Lato
  [5]: https://www.google.com/fonts/specimen/Volkhov
- [6]: http://www.latofonts.com/
- [7]: http://modularscale.com/
+ [6]: https://www.latofonts.com/
+ [7]: https://modularscale.com/
  [8]: #
  [9]: #
  [10]: #

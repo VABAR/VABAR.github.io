@@ -10,7 +10,7 @@ image:
 categories: vabar
 ---
 
-[![text-book](http://recursos.paraninfo.es/portadas/Resized/7/7/8/7/9788428327787m.jpg)](http://www.paraninfo.es/catalogo/9788428327787/teoria-y-problemas-resueltos-de-matematica-aplicada-y-estadistica-para-farmacia)
+[![text-book](https://recursos.paraninfo.es/portadas/Resized/7/7/8/7/9788428327787m.jpg)](https://www.paraninfo.es/catalogo/9788428327787/teoria-y-problemas-resueltos-de-matematica-aplicada-y-estadistica-para-farmacia)
 
 VaBaR member Virgilio Gómez-Rubio has just published this text book together with his colleage Emilio López-Cano.
 

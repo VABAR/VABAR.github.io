@@ -12,7 +12,7 @@ categories:
 image:
     title: "unsplash_1.jpg"
     caption: Unsplash.com
-    caption_url: http://unsplash.com
+    caption_url: https://unsplash.com
 ---
 *Feeling Responsive* shows metadata by default. The default behaviour can be changed via `config.yml`. To show metadata at the end of a page/post just add the following to front matter:
 

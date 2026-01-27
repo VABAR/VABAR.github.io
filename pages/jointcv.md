@@ -52,9 +52,9 @@ permalink: "/jointcv/"
 
   - A. Nolasco; J. A. Quesada; J. Moncho; I. Melchor; P. Pereyra-Zamora; T. Tamayo-Fonseca; M. A.Martinez-Beneito; O. Zurriaga. Trends in socio-economic inequalities in amenable mortality in urban areas of specific cities, 1996-2007. *BMC Public Health*.
 
-  - Cabras, S. Castellanos, M. E., Perra, S. Comparison of objective bayes factors for variable selection in parametric regression models for survival analysis. *Statistics in Medicine* DOI: [10.1002/sim.6249](http://onlinelibrary.wiley.com/doi/10.1002/sim.6249/abstract)
+  - Cabras, S. Castellanos, M. E., Perra, S. Comparison of objective bayes factors for variable selection in parametric regression models for survival analysis. *Statistics in Medicine* DOI: [10.1002/sim.6249](https://onlinelibrary.wiley.com/doi/10.1002/sim.6249/abstract)
 
-  - Cabras, S. Castellanos, M. E., Perra, S. A new minimal training sample scheme for intrinsic bayes factors in censored data. *Computational Statistics and Data Analysis* DOI: [10.1016/j.csda.2014.07.012](http://www.researchgate.net/publication/264826808_A_new_minimal_training_sample_scheme_for_intrinsic_Bayes_factors_in_censored_data)
+  - Cabras, S. Castellanos, M. E., Perra, S. A new minimal training sample scheme for intrinsic bayes factors in censored data. *Computational Statistics and Data Analysis* DOI: [10.1016/j.csda.2014.07.012](https://www.researchgate.net/publication/264826808_A_new_minimal_training_sample_scheme_for_intrinsic_Bayes_factors_in_censored_data)
 
   - Llinares-Tello F, Rosas J, de la Torre I, Valor L, Barber, X., Senabre JM; el Grupo AIRE-MB, HUGM. Comparative Study of Both Versions of an Immunoassay Commercialized for Therapeutic Drug Monitoring of Adalimumab in Rheumatoid Arthritis. *Reumatología Clínica*, 10(2), 105-108. 
 

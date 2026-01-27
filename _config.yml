@@ -1,4 +1,4 @@
-# ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
+# ASCII-Font › https://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
 #
 #      _____ _ __          _____      __  __  _                 
 #     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
@@ -22,7 +22,7 @@ description: > # this means to ignore newlines until "baseurl:"
 # This URL is the main adresse. Don't include a slash at the end.
 #
 baseurl: ""                   # the subpath of your site, e.g. /blog/
-url: "http://vabar.es"        # the base hostname & protocol for your site
+url: "https://vabar.es"        # the base hostname & protocol for your site
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -150,9 +150,9 @@ msapplication_tilecolor:                "#fabb00"
 #      / ____/___ _________  / /_  ____  ____  / /__
 #     / /_  / __ `/ ___/ _ \/ __ \/ __ \/ __ \/ //_/
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<   
-#   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
+#   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › https://j.mp/fb_optimize
 
-# og_image:                           "http://images.phlow.de/phlow/phlow_de-logo-512x.png"
+# og_image:                           "https://images.phlow.de/phlow/phlow_de-logo-512x.png"
 # og_locale:                          "en_EN"
 # og_type:                            "website"
 # og_title:                           "Feeling Responsive – A Responsive Theme for Jekyll"
@@ -186,8 +186,8 @@ disqus_shortname: feelingresponsive
 #      _____                
 #     / ___/____ ___________
 #     \__ \/ __ `/ ___/ ___/
-#    ___/ / /_/ (__  |__  )     More › http://sass-lang.com/ 
-#   /____/\__,_/____/____/      More › http://jekyllrb.com/docs/assets/#sassscss
+#    ___/ / /_/ (__  |__  )     More › https://sass-lang.com/ 
+#   /____/\__,_/____/____/      More › https://jekyllrb.com/docs/assets/#sassscss
 #                           
 
 sass:

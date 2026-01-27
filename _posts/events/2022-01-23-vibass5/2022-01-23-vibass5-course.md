@@ -8,14 +8,14 @@ header:
   title: VIBASS 5
   image_fullwidth: header_vibass18.png
   caption: Registration and call for papers
-  caption_url: http://congresos.adeituv.es/VIBASS5/
+  caption_url: https://congresos.adeituv.es/VIBASS5/
 image:
   thumb: widget_vibass5.png
   homepage: vibass5.jpg
 categories: events
 ---
 
-<!--[R-INLA](http://www.r-inla.org/)-->
+<!--[R-INLA](https://www.r-inla.org/)-->
 
 This course (12 hours) is provided by [__Prof. Marta Blangiardo__](https://www.imperial.ac.uk/people/m.blangiardo) (Imperial College London, U.K.) and Prof. [Michela Cameletti](https://sites.google.com/site/michelacameletti) (Università degli studi di Bergamo, Italy). They are the authors of the book ["Spatial and Spatio-temporal Bayesian Models with R-INLA"](https://www.wiley.com/en-gb/Spatial+and+Spatio+temporal+Bayesian+Models+with+R+INLA-p-9781118326558) published by Wiley.
 

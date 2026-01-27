@@ -12,7 +12,7 @@ permalink: "/network/"
 
 # Partners
 
-  - [![BioSS]({{ site.urlimg }}/banner_bioss.png)](http://www.bioss.ac.uk/)
+  - [![BioSS]({{ site.urlimg }}/banner_bioss.png)](https://www.bioss.ac.uk/)
 
     VaBaR and BioSS have closely related lines of research, and engaged to coordinate efforts and to exchange experiences.
 
@@ -20,7 +20,7 @@ permalink: "/network/"
 
     - [Reciprocal exchange visits for PhD students and post-docs](bioss-exchange)
 
-  - [![Biostatnet]({{ site.urlimg }}/banner_biostatnet.jpg)](http://eio.usc.es/pub/biostatnet/)
+  - [![Biostatnet]({{ site.urlimg }}/banner_biostatnet.jpg)](https://eio.usc.es/pub/biostatnet/)
 
     Spanish Network of Researchers in Biostatistics
 
@@ -29,10 +29,10 @@ permalink: "/network/"
 
 VaBaR members participate in the following forums
 
-- [SEIO](http://seio.es/) - Spanish Society of Statistics and Operations Research
+- [SEIO](https://seio.es/) - Spanish Society of Statistics and Operations Research
 
-- [SEB](http://www.biometricsociety.net/) - Sociedad Española de Bioestadística
+- [SEB](https://www.biometricsociety.net/) - Sociedad Española de Bioestadística
 
-- [ISBA](http://bayesian.org/) - International Society for Bayesian Analysis
+- [ISBA](https://bayesian.org/) - International Society for Bayesian Analysis
 
-- [SMS](http://www.statmod.org/) - Statistical Modelling Society
+- [SMS](https://www.statmod.org/) - Statistical Modelling Society

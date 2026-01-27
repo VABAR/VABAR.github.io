@@ -7,8 +7,8 @@ teaser: "VaBaR course: Introduction to Bayesian Survival Models"
 header: no
 image:
     title: header_bayes-pharma.png
-    caption: "http://www.bayes-pharma.org/"
-    caption_url: http://www.bayes-pharma.org/
+    caption: "https://www.bayes-pharma.org/"
+    caption_url: https://www.bayes-pharma.org/
     homepage: homepage_bayes-pharma.png
     thumb: thumb_bayes-pharma.png
 categories: events
@@ -16,7 +16,7 @@ categories: events
 
 The Bayes Pharma conference focus on Bayesian approaches in pharmaceutical research.
 
-Co-organized by [VaBaR member](/members/) [Virgilio Gómez-Rubio](http://www.uclm.es/profesorado/vgomez/), this year's edition features a short course on __Bayesian Survival Models__ by 
+Co-organized by [VaBaR member](/members/) [Virgilio Gómez-Rubio](https://www.uclm.es/profesorado/vgomez/), this year's edition features a short course on __Bayesian Survival Models__ by 
 
 {% for member in site.data.members %}
   {% if member.name == "Carmen Armero" or member.name == "Danilo Alvares" or member.name == "Elena Lázaro" %}

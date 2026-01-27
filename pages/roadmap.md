@@ -18,7 +18,7 @@ permalink: "/roadmap/"
 * Landingpage
 * Even better responsive typography
 * Google AdSense ads
-* [Submit *Feeling Responsive* to jekyllthemes.org](http://jekyllthemes.org/)
+* [Submit *Feeling Responsive* to jekyllthemes.org](https://jekyllthemes.org/)
 * More post-formats for blogging like special post formats for links, audio, tweets,...
 
 
@@ -28,17 +28,17 @@ permalink: "/roadmap/"
 * <s>Use `style` in front matter to inject css-styles into `<head></s>
 * <s>Add include to loop through collections</s>
 * <s>Now with optional caption for header</s>
-* [<s>Refined humans.txt</s>](http://humanstxt.org/)
+* [<s>Refined humans.txt</s>](https://humanstxt.org/)
 * [<s>Produce an introduction video to showcase *Feeling Responsive*</s>](https://www.youtube.com/embed/3b5zCFSmVvU)
 * [<s>Additional header with text</s>]({{ site.url }}/headers/)
 * <s>Added Google Analtics support</s>
-* [<s>Add redirection layout by KanishkKanishk</s>](http://codingtips.kanishkkunal.in/redirects-jekyll-github-pages/)
+* [<s>Add redirection layout by KanishkKanishk</s>](https://codingtips.kanishkkunal.in/redirects-jekyll-github-pages/)
 * <s>Convert Foundation Sass to use native Jekyll Sass support</s>
-* <s>Optimize HTML and use Schema.org-Attributes › http://schema.org/Article</s>
+* <s>Optimize HTML and use Schema.org-Attributes › https://schema.org/Article</s>
 * <s>Disqus comments</s>
 * <s>Rework `list-entries.html` › now language ready</s>
 * [<s>Create custom 404.html-webpage</s>](https://help.github.com/articles/custom-404-pages/)
-* [<s>Add simple search box with Google</s>](http://truongtx.me/2012/12/28/jekyll-create-simple-search-box/)
+* [<s>Add simple search box with Google</s>](https://truongtx.me/2012/12/28/jekyll-create-simple-search-box/)
 * <s>Alternative non-landscape header</s>
 * <s>Patterns for header</s>
 * <s>Clean up color scheme and highlighting colors</s>
@@ -50,4 +50,4 @@ permalink: "/roadmap/"
 * <s>SEO › Add metadescription to header.html and front matter</s>
 * [<s>Adding Open Graph for Jekyll</s>](https://gist.github.com/pathawks/1406355)
 * [<s>Gallery Post Example</s>]({{ site.url }}/design/gallery/)
-* [<s>Adding pagination</s>](http://jekyllrb.com/docs/pagination/)
+* [<s>Adding pagination</s>](https://jekyllrb.com/docs/pagination/)

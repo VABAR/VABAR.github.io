@@ -15,7 +15,7 @@
   affiliation: uveg
   position: Principal Investigator
   email: carmen.armero@uv.es
-  url: http://www.uv.es/armero/
+  url: https://www.uv.es/armero/
   img: carmero.jpg
 
 
@@ -34,7 +34,7 @@
   affiliation: umh
   position: Associate Professor
   email: xbarber@umh.es
-  url: http://xavierbarber.edu.umh.es/
+  url: https://xavierbarber.edu.umh.es/
   img: xavi.jpg
 
 - name: Jim Berger
@@ -74,7 +74,7 @@
   affiliation: uveg
   position: Associate Professor
   email: anabel.forte@uv.es
-  url: http://www.anabelforte.com
+  url: https://www.anabelforte.com
   img: aforte.jpeg
 
 - name: Gonzalo García-Donato
@@ -82,7 +82,7 @@
   affiliation: uclm
   position: Professor
   email: gonzalo.garciadonato@uclm.es
-  url: http://www.uclm.es/profesorado/garcia-donato/
+  url: https://www.uclm.es/profesorado/garcia-donato/
   img: gonzalo.jpg
 
 - name: Virgilio Gómez-Rubio
@@ -106,7 +106,7 @@
   affiliation: uveg
   position: Professor
   email: antonio.lopez@uv.es
-  url: http://www.uv.es/antoniol
+  url: https://www.uv.es/antoniol
   img: alopez.jpg
 
 - name: Miguel Angel Martínez-Beneito
@@ -130,7 +130,7 @@
   affiliation: cirad
   position: Biostatistician
   email: facundo.munoz@cirad.fr
-  url: http://www.uv.es/famarmu
+  url: https://astre.gitlab.cirad.fr/people/facundo.munoz/
   img: facu.jpg
 
 - name: Francisco Palmí
@@ -154,7 +154,7 @@
   affiliation: fisabio
   position: Postdoctoral researcher
   email: blanca.sarzo@uv.es
-  url: http://fisabio.san.gva.es/
+  url: https://fisabio.san.gva.es/
   img: blanca.jpg
 
 
@@ -165,7 +165,7 @@
   affiliation: uveg
   position: PhD student
   email: mianbel@alumni.uv.es
-  url: http://www.uv.es/
+  url: https://www.uv.es/
   img: mabeltran.jpg
 
 - name: Gabriel Calvo
@@ -173,7 +173,7 @@
   affiliation: uveg
   position: PhD student
   email: gabriel.calvo@uv.es
-  url: http://www.uv.es/
+  url: https://www.uv.es/
   img: gcalvo.jpg
 
 - name: Martina Cendoya Martínez
@@ -181,7 +181,7 @@
   affiliation: ivia
   position: PhD student
   email: jesusgutierrezbotella@gmail.com
-  url: http://www.ivia.gva.es/
+  url: https://www.ivia.gva.es/
   img: mcendoya.jpg
 
 - name: Alba Fuster Alonso
@@ -211,11 +211,11 @@
 #- name: Francisco Santonja
 #  affiliation: uveg
 #  position: Associate Professor
-#  url: http://www.uv.es
+#  url: https://www.uv.es
 #  img: francisco.jpg
 
 #- name: Hèctor Perpiñán
 #  affiliation: sangva
 #  position: Biostatistician
-#  url: http://www.san.gva.es/
+#  url: https://www.san.gva.es/
 #  img: hector.jpg

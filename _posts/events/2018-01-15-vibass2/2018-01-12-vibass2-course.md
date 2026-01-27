@@ -16,7 +16,7 @@ categories: events
 
 This course (12 hours) is provided by [__Nadja Klein__](https://mbs.edu/faculty/nadja-klein), Research Feodor-Lynen-Fellow (Humboldt Foundation), University of Melbourne (Australia) and [__Nikolaus Umlauf__](https://eeecon.uibk.ac.at/~umlauf/) Assistant Professor in Statistics, Universität Innsbruck (Austria). Both are coauthors of the R package __BayesX__
 
-- Course on Bayesian modeling with [__BayesX__](http://www.uni-goettingen.de/de/bayesx/550513.html)
+- Course on Bayesian modeling with [__BayesX__](https://www.uni-goettingen.de/de/bayesx/550513.html)
 
 - Instructors
 
@@ -39,7 +39,7 @@ This course (12 hours) is provided by [__Nadja Klein__](https://mbs.edu/faculty/
     This course is aimed to statisticians and applied
     researchers who are interested in learning about various
     types of Additive Regression using the R packages
-    BayesX (http://www.BayesX.org) and
+    BayesX (https://www.BayesX.org) and
     bamlss (https://cran.r-project.org/package=bamlss). Additive
     regression, i.e., penalised spline smoothing and structured
     additive distributional regression models provide a simple

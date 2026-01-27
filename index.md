@@ -26,7 +26,7 @@ widget-1:
 #   title: "València International Bayesian Analysis Summer School"
 #   url: '/events/vibass3/'
 #   text: 'VIBASS 3 is the third edition of the summer school on Bayesian Statistics to be held from 22nd until 26th July 2019 in València (Spain). VIBASS offers an opportunity to be introduced into the Bayesian reasoning without previous knowledge in the subject.
-#   <br /> <a href="http://congresos.adeituv.es/VIBASS3/">Registration and call for papers</a>
+#   <br /> <a href="https://congresos.adeituv.es/VIBASS3/">Registration and call for papers</a>
 #   <br /> <a href="mailto:vibass@uv.es">vibass@uv.es</a>
 #   '
 #   image: widget_vibass3.jpg
@@ -53,13 +53,13 @@ widget-3:
 #    image: alicia-thomas.jpg
 # widget-2:
 #    title: "Why use this theme?"
-#    url: 'http://phlow.github.io/feeling-responsive/info/'
-#    text: '<em>Feeling Responsive</em> is heavily customizable.<br>1. Language-Support :)<br>2. Optimized for speed and it&#39;s responsive.<br>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br>4. Seven different Headers.<br>5. Customizable navigation, footer,...'
-#    video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
+#    url: 'https://phlow.github.io/feeling-responsive/info/'
+#    text: '<em>Feeling Responsive</em> is heavily customizable.<br>1. Language-Support :)<br>2. Optimized for speed and it&#39;s responsive.<br>3. Built on <a href="https://foundation.zurb.com/">Foundation Framework</a>.<br>4. Seven different Headers.<br>5. Customizable navigation, footer,...'
+#    video: '<a href="#" data-reveal-id="videoModal"><img src="https://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
 # widget-3:
 #    title: "Download Theme"
 #    url: 'https://github.com/Phlow/feeling-responsive'
-#    text: '<em>Feeling Responsive</em> is totally free and licensed under the MIT License. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+#    text: '<em>Feeling Responsive</em> is totally free and licensed under the MIT License. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="https://twitter.com/phlow">@phlow</a>.'
 #    image: github-303x182.jpg
 ---
 

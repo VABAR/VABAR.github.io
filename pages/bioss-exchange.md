@@ -19,7 +19,7 @@ If you are interested in making an exchange visit, you can apply via the followi
 
 1. Discuss the timing and topic with your own supervisor(s) or manager(s).
 
-1. Study the interests of the partner organisation you wish to visit (see research areas at [VaBaR]({{ site.url }}/research) and [BioSS](http://www.bioss.ac.uk/research.html)) to identify whether the topic is of relevance to them.
+1. Study the interests of the partner organisation you wish to visit (see research areas at [VaBaR]({{ site.url }}/research) and [BioSS](https://www.bioss.ac.uk/research.html)) to identify whether the topic is of relevance to them.
 
 1. Write a short proposal (about 300 words) describing the project you wish to work on during the visit. The proposal should explain how the exchange visit will be beneficial to you.
 

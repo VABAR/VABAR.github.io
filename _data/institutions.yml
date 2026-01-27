@@ -9,7 +9,7 @@
 
 - name: uveg
   title: Universitat de València
-  url: http://www.uv.es
+  url: https://www.uv.es
   city: Valencia
   country: Spain
   logo: uveg.jpg
@@ -17,7 +17,7 @@
 
 - name: duke
   title: Duke University
-  url: http://www.duke.edu/
+  url: https://www.duke.edu/
   city: Durham, NC
   country: USA
   logo: duke.png
@@ -25,7 +25,7 @@
 
 - name: fisabio
   title: Fundación para el Fomento de la Investigación Sanitaria y Biomédica
-  url: http://fisabio.san.gva.es/
+  url: https://fisabio.san.gva.es/
   city: Valencia
   country: Spain
   logo: fisabio.png
@@ -33,7 +33,7 @@
 
 - name: ivia
   title: Instituto Valenciano de Investigaciones Agrarias
-  url: http://www.ivia.gva.es/
+  url: https://www.ivia.gva.es/
   city: Valencia
   country: Spain
   logo: ivia.png
@@ -41,7 +41,7 @@
 
 - name: uc3m
   title: Universidad Carlos III
-  url: http://www.uc3m.es/
+  url: https://www.uc3m.es/
   city: Madrid
   country: Spain
   logo: uc3m.jpg
@@ -49,7 +49,7 @@
 
 - name: uclm
   title: Universidad Castilla La Mancha
-  url: http://www.uclm.es/
+  url: https://www.uclm.es/
   city: Albacete
   country: Spain
   logo: uclm.png
@@ -65,7 +65,7 @@
 
 - name: umh
   title: Universidad Miguel Hernández
-  url: http://www.umh.es/
+  url: https://www.umh.es/
   city: Elche
   country: Spain
   logo: umh.jpg
@@ -73,7 +73,7 @@
 
 - name: urjc
   title: Universidad Rey Juan Carlos
-  url: http://www.urjc.es/
+  url: https://www.urjc.es/
   city: Madrid
   country: Spain
   logo: urjc.jpg
@@ -89,7 +89,7 @@
 
 - name: upv
   title: Universitat Politècnica de València
-  url: http://www.upv.es
+  url: https://www.upv.es
   city: Valencia
   country: Spain
   logo: upv.png
@@ -121,7 +121,7 @@
 
 #- name: bcam
 #  title: Basque Center fpr Applied Mathematics
-#  url: http://www.bcamath.org/
+#  url: https://www.bcamath.org/
 #  city: Bilbao
 #  country: Spain
 #  logo: bcam.jpg
@@ -129,7 +129,7 @@
   
 #- name: hucsc
 #  title: Hospital Universitario Clínico San Carlos
-#  url: http://www.madrid.org/cs/Satellite?language=es&pagename=HospitalClinicoSanCarlos%2FPage%2FHCLN_home
+#  url: https://www.madrid.org/cs/Satellite?language=es&pagename=HospitalClinicoSanCarlos%2FPage%2FHCLN_home
 #  city: Madrid
 #  country: Spain
 #  logo: hucsc.png
@@ -137,7 +137,7 @@
 
 # - name: inra
 #   title: Institut Nacional de la Recherche Agronomique
-#   url: http://www.inra.fr
+#   url: https://www.inra.fr
 #   city: Orléans
 #   country: France
 #   logo: inra.png
@@ -145,7 +145,7 @@
 
 #- name: irbl
 #  title: Institut de Recerca Biomèdica de Lleida
-#  url: http://www.irblleida.org/
+#  url: https://www.irblleida.org/
 #  city: Lleida
 #  country: Spain
 #  logo:  irbl.png
@@ -153,7 +153,7 @@
 
 # - name: pucc
 #   title: Pontificia Universidad Católica de Chile
-#   url: http://www.uc.cl/
+#   url: https://www.uc.cl/
 #   city: Santiago de Chile
 #   country: Chile
 #   logo: pucc.png
@@ -169,7 +169,7 @@
 
 #- name: sangva
 #  title: Generalitat Valenciana - Conselleria de Sanitat Universal i Salut Pública.
-#  url: http://www.san.gva.es/
+#  url: https://www.san.gva.es/
 #  city: Valencia
 #  country: Spain
 #  logo: sangva.png

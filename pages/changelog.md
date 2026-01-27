@@ -17,7 +17,7 @@ permalink: "/changelog/"
 <div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/rLS-BEvlEyY" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
 
 2015-03-02 // Version 1.1
-:   Added [Foundation Reveal](http://foundation.zurb.com/docs/components/reveal.html) to the mix to show videos and content in a popup window. <a href="#" data-reveal-id="videoModal">Try it out right know :)</a>
+:   Added [Foundation Reveal](https://foundation.zurb.com/docs/components/reveal.html) to the mix to show videos and content in a popup window. <a href="#" data-reveal-id="videoModal">Try it out right know :)</a>
 
 2015-02-26 // Version 1.0
 :   OK. Let's try it. Here is *Feeling Responsive* Version 1.0, with a shiny video.
@@ -32,7 +32,7 @@ permalink: "/changelog/"
 :   Yes! Now *Feeling Responsive* uses the built-in sass-support by Jekyll. Open `_sass` and dig deeper into customizing this theme using your colors, typography and so on...
 
 2015-02-18 // Version 0.98
-:   Now with author-support and [Schema.org microdata](http://schema.org). Edit author(s) in `authors.yml` and use it via front matter like `author: your_author_name`. Added [Disqus-comments]({{ site.url}}/design/comments/#comments) to the mix.
+:   Now with author-support and [Schema.org microdata](https://schema.org). Edit author(s) in `authors.yml` and use it via front matter like `author: your_author_name`. Added [Disqus-comments]({{ site.url}}/design/comments/#comments) to the mix.
 
 2015-02-17 // Version 0.97
 :   Simplicity. Reduced templates. Now there is one page/post-template with two switches via front matter to turn on metadata at the end of the page/post via `show_meta: true/false` and to add a left or right sidebar via `sidebar: left/right`. The defaults are declared in `config.yml`. I also changed the variable `description` to `teaser` because it's more logigally.
@@ -97,7 +97,7 @@ permalink: "/changelog/"
 
  [1]: {{ site.url }}/blog/
  [2]: {{ site.url }}/blog/archive/
- [3]: http://foundation.zurb.com/docs/components/accordion.html
+ [3]: https://foundation.zurb.com/docs/components/accordion.html
  [4]: {{ site.url }}/design/gallery/
  [5]: {{ site.url }}/design/video/
  [6]: https://www.google.de/maps/place/Strandpaviljoen+Joep+B.V./@51.9960733,5.830135,6z/data=!4m2!3m1!1s0x47cf5918df69093b:0x7c11ab31102c1c8a

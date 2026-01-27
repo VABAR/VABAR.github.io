@@ -19,7 +19,7 @@ hours), with conceptual sessions in the morning and practical sessions
 with basic Bayesian packages in the afternoon. This is a summary of the
 contents of both days.
 
-We use the R package [`vibass`](http://vabar.es/vibass/) which contains the practical activities and a few interactive apps.
+We use the R package [`vibass`](https://vabar.es/vibass/) which contains the practical activities and a few interactive apps.
 Please make sure that you bring a recent R version, with recently updated packages.
 Follow the instructions on the pacakge website for installing it, ideally prior to the workshop, to make the most of our time together.
 

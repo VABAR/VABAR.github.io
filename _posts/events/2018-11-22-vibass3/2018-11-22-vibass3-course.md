@@ -8,7 +8,7 @@ header:
   title: VIBASS 3
   image_fullwidth: header_vibass18.png
   caption: Registration and call for papers
-  caption_url: http://congresos.adeituv.es/VIBASS3/
+  caption_url: https://congresos.adeituv.es/VIBASS3/
 image:
   #thumb: widget_vibass2.png
   #homepage: vibass2.jpg
