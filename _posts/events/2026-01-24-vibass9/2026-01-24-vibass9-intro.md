@@ -35,7 +35,7 @@ At the end of the course, participants will be able to start applying Bayesian m
 
 If you want to (and can) prepare yourself in advance in order to make the most out of the training, we can recommend a few [books that are freely available on line]({{ site.url }}/vabar/book-recommendations/). They are excellent references to come back in the future, as well.
 
-We use the R package [`vibass`](https://vabar.es/vibass/) which contains the practical activities and a few interactive apps.
+We use the R package [`vibass`](https://vabar.github.io/vibass/) which contains the practical activities and a few interactive apps.
 Please make sure that you bring a recent R version, with recently updated packages.
 Follow the instructions on the package website for installing it, ideally prior to the workshop, to make the most of our time together.
 
