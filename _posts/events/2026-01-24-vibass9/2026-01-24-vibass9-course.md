@@ -2,7 +2,7 @@
 layout: page
 title: "VIBASS9 - Invited Course"
 subheadline: "Bayesian survival, longitudinal and joint models with INLA"
-meta_teaser: "VIBASS8 Invited Course"
+meta_teaser: "VIBASS9 Invited Course"
 #teaser: VIBASS9 Invited Course
 header:
   title: VIBASS 9
