@@ -5,7 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "VABAR –VAlencia BAyesian Research group"
+title: "VABAR – VAlencia BAyesian Research group"
 header:
    image_fullwidth: "header_valencia.jpg"
 # widget-1:
@@ -33,7 +33,7 @@ widget-1:
 
 
 widget-2:
-   title: "Denis-Rustand"
+   title: "Denis Rustand"
    url: '/events/vibass9-course/'
    text: 'Invited course: <br> <i>«Bayesian survival, longitudinal and joint models with INLA»</i>'
    image: denis-rustand_wide.jpg
